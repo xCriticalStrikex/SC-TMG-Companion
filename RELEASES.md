@@ -4,7 +4,8 @@
 
 - Canonical internal source revision: `R18 final`
 - Canonical Git tag: `v1.0.0`
-- Canonical Git commit: `46055474f8faa5e9e9a0024ba069f25f3898ef2d`
+- Signed annotated tag object: `46055474f8faa5e9e9a0024ba069f25f3898ef2d`
+- Canonical Git commit: `d50a49f2a311482cc91712fb0b1391196c209867`
 - Canonical Git tree: `612e6c1abaa2bd050ae1172cb920f1ae03db5eeb`
 - APK: `SC2TMG_Companion_v1.0.0.apk`
 - Application ID: `com.sc2tmg.soundboard`

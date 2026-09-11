@@ -5,7 +5,8 @@ Status: established and verified on 2026-09-11 without changing application sour
 ## Canonical Git identity
 
 - Release tag: `v1.0.0`
-- Release commit: `46055474f8faa5e9e9a0024ba069f25f3898ef2d`
+- Signed annotated tag object: `46055474f8faa5e9e9a0024ba069f25f3898ef2d`
+- Release commit: `d50a49f2a311482cc91712fb0b1391196c209867`
 - Release tree: `612e6c1abaa2bd050ae1172cb920f1ae03db5eeb`
 - Public identity: `com.sc2tmg.soundboard`, versionName `1.0.0`, versionCode `108`
 - Internal source revision: R18 final, including the post-R18 finishing pass described below
