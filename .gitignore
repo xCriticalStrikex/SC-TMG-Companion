@@ -1,0 +1,34 @@
+# Android Studio and Gradle state
+.gradle/
+.idea/
+.kotlin/
+.android/
+.android-build-tools/
+local.properties
+**/build/
+*.iml
+
+# Release binaries belong in GitHub Releases, not source control
+*.apk
+*.aab
+
+# Signing material and credentials
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+key.properties
+*.pem
+*.key
+*.p12
+*.pfx
+google-services.json
+service-account*.json
+.env
+.env.*
+
+# IDE and OS clutter
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

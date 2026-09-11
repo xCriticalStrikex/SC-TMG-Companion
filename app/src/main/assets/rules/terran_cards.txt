@@ -1,0 +1,908 @@
+                                                                                                                                                                                TERRAN FACTION
+   UNIT CARDS
+
+
+
+
+            © 2026 Archon v 1.04.26                                                                                                                                             BIOLOGICAL, LIGHT, GROUND
+            © 2026 Blizzard Entertainment, Inc.                                                                                                                                 COMBAT TAGS:
+
+                                                                                                                                                                                                      TERRAN
+
+
+
+
+                                                             -       1    -              -            5+    1       Ground       E                      STRIKE
+                                                      RNG Target RoA Hit Surge type S Dice Dmg Keyword                                                  NAME
+
+                                                                                                                                      COMBAT PHASE
+
+
+                                                             -       1    D3           Light          3+    2         All        12               C-14 RIFLE
+                                                      RNG Target RoA Hit Surge type S Dice Dmg Keyword                                                  NAME
+
+                                                                                                                                      ASSAULT PHASE
+
+                   gains BUFF Speed (3). Additionally, its C-14 Rifle and all Close Combat Weapons gain PRECISION (3).
+                     MOVEMENT PHASE STIMPACK: ACTIVE 1 CP This Unit suffers NON-LETHAL DAMAGE (2). This Unit
+                                           MODELS / SUPPLY
+                                 2                1              0              SIZE         HIT POINTS     EVADE      ARMOUR         SPEED
+
+                             1-3 4-6 7-9                                        2               4/7 5+ 5+ 2                                                                                MARINE
+fold here
+
+
+
+
+                                                                                                                                                                                                                                  fold here
+                                                                                                                                                           COMBAT ROLE:                        ARMY SLOT:
+
+            MARINE                                                                               CLOSE COMBAT                    RANGED COMBAT
+                                                                                                                                                           DAMAGE DEALER                       CORE
+
+                                                                MOVEMENT PHASE ⬆ UPGRADE COMBAT SHIELD: ACTIVE 1 CP This Unit is always eligible
+                                                             to make an Evade Roll against any Close Combat Attack targeting it and any Damage from an Enemy Special
+                                                             Ability.
+
+
+                                                                     ASSAULT PHASE                    ⬆ UPGRADE
+                                                                 NAME                           RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                 AGG-12                          12       Ground      2     3+ Armoured            D3     1      LONG RANGE (18"), SPECIALIST
+                                                                  FOR C-14 RIFFLE
+                                                                 ROCKET LAUNCHER                 12       Ground      4     3+          -          -      1      INDIRECT FIRE, LONG RANGE (18"),
+                                                                                                                                                                 SIDEARM, SPECIALIST
+
+                                                             SLUGTHROWER: PASSIVE When this Unit makes                                        GRENADES - FRAG: PASSIVE When this Unit makes
+                                                             a Ranged Attack with a C-14 Rifle and the target is                              a Ranged Attack with a C-14 Rifle and the target is
+                                                             Within 8", that weapon gains ANTI-EVADE (1).                                     Within 8", that weapon’s S Dice is replaced by D6.
+
+
+                                                                     COMBAT PHASE                 ⬆ UPGRADE
+
+
+
+
+                 WIP
+                                                                 NAME                           RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                 BAYONET                          E       Ground      2     5+          -          -      1      -
+                                                                  FOR STRIKE
+
+
+
+            Ø 32MM
+
+
+            ⬆ UPGRADE                                                                                                                                                             © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                                                  © 2026 Archon v 1.04.26
+
+
+
+
+                                                                                                                                                         © 2026 Blizzard Entertainment, Inc.      © 2026 Archon         May 2026, v.1.0
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                   ⬆ UPGRADE
+                                                                                                                                                                                                Ø 50MM
+                                             LASER TARGETING SYSTEMS: PASSIVE This Unit’s Quad K12 weapon gains LONG RANGE (16").
+                                                                                                      ⬆ UPGRADE              ASSAULT PHASE
+                                                                                          Marker, its Armour characteristic is increased by 1.
+                      characteristic by 1.                                                TARSONIS: PASSIVE While this Unit is Within 3" of a Mission
+                      KINETIC FOAM: PASSIVE Increase this Unit's Hit Points                                ⬆ UPGRADE VETERAN OF                   ANY PHASE
+                                                                                 RANGED COMBAT               CLOSE COMBAT
+                               CORE                               TANK                                                                                                    MARAUDER
+                           ARMY SLOT:                        COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                 fold here
+
+
+
+
+                   MARAUDER                                                          4/7 4+ 6+ 5                                      2           1-1 2-2 3-4
+                                                                                     SPEED        ARMOUR     EVADE   HIT POINTS       SIZE             0             1                2
+                                                                                                                                                               MODELS / SUPPLY
+                                                                       MOVEMENT PHASE STIMPACK: ACTIVE 1 CP This Unit suffers NON-LETHAL DAMAGE (2). This Unit gains
+                                                                     BUFF Speed (3). Additionally, its Quad K12 and all Close Combat Weapons gain PRECISION (2).
+                                                                        ASSAULT PHASE
+                                                                      NAME                   RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      QUAD K12               12     Ground      3    3+ Armoured             D3    1       PIERCE Armoured (2)
+                                                                     CONCUSIVE SHELLS: REACTION 1 CP When an Enemy declares a Charge against a Friendly Unit Within 8", that
+                                                                     Enemy gains DEBUFF Speed (2).
+                                                                        COMBAT PHASE
+                                                                      NAME                   RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      STRIKE                  E     Ground      2    4+           -          -     1       -
+                   TERRAN
+                  COMBAT TAGS:                                                                                                                                             © 2026 Blizzard Entertainment, Inc.
+                  ARMOURED, BIOLOGICAL, GROUND                                                                                                                             © 2026 Archon v 1.04.26
+                                                                                                                                                                                                    UNIT CARDS
+             TERRAN FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                     ⬆ UPGRADE
+                                                                                                                                                                                                Ø 32MM
+                                                                                                Optical Flare special ability's Range to 16".
+                                                                                                A-13 FLASH GRENADE LAUNCHER: PASSIVE Increase the
+                   ability's effects.
+                   1 additional model Within Range for calculating that                         as 0 when calculating the Supply Pool.
+                   a Life Support or Medpack ability, treat it as having                        FACILITIES: PASSIVE This Unit’s Supply Value counts
+                   STABILIZER MEDPACKS: PASSIVE When this Unit resolves                                          ⬆ UPGRADE ADVANCED MEDIC           ANY PHASE
+                                                                                   RANGED COMBAT                CLOSE COMBAT
+                       SUPPORT                            LIFESAVER                                                                                                                      MEDIC
+                           ARMY SLOT:                        COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                 fold here
+
+
+
+
+                    MEDIC                                                              4/7 5+ 5+ 2                                       2          1-1 2-3
+                                                                                        SPEED        ARMOUR     EVADE   HIT POINTS       SIZE            0            1
+                                                                                                                                                         MODELS / SUPPLY
+                                                            ANY PHASE LIFE SUPPORT: REACTION 1 CP Use when                           RESTORATION: REACTION 1 CP Use when a Friendly Unit
+                                                            another Friendly Biological Unit suffers Damage Within                   Within 4" receives a DEBUFF. Remove all DEBUFFS from it.
+                                                            4". Reduce the Total Damage before allocation by 1 for
+                                                            each model in this Unit that is Within 4" of the damaged
+                                                            Unit.
+                                                                        MOVEMENT PHASE MEDPACK: ACTIVE                                   OPTICAL FLARE: ACTIVE 2 CP Select one Enemy Unit
+                                                                      1 CP Select another Friendly Biological Unit Within                Within 12". Until the End of the Round, apply DEBUFF
+                                                                     4". Resolve the HEAL (X) effect for the targeted Unit,              Range (4) to that Unit’s Ranged Weapons. That Unit
+                                                                     where X is the number of models in this Unit that are               cannot benefit from LONG RANGE.
+                                                                     Within 4" of the target Unit.
+                                                                        COMBAT PHASE
+                                                                      NAME                      RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      STRIKE                     E     Ground      1    5+           -          -    1       -
+                   TERRAN
+                  COMBAT TAGS:                                                                                                                                             © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, LIGHT, GROUND                                                                                                                                © 2026 Archon v 1.04.26
+                                                                                                                                                                                                    UNIT CARDS
+             TERRAN FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                          ⬆ UPGRADE
+                                                                                                                                                                                                   Ø 40MM
+                                                                                                                                      FOR COMMANDO RIFLE
+                                                  BURST FIRE 8" (3)      1      D3+1      Light         3+   6       All        12                  C-14 RIFLE
+                                                          RNG Target RoA Hit Surge type S Dice Dmg Keyword                                               NAME
+                                                                                                             ⬆ UPGRADE               ASSAULT PHASE
+                                                                                       RANGED COMBAT               CLOSE COMBAT
+                              HERO                        TACTICIAN                                                                                                        JIM RAYNOR
+                           ARMY SLOT:                        COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                    fold here
+
+
+
+
+                   JIM RAYNOR                                                                7          4+ 5+ 8                              2              1-1
+                                                                                           SPEED        ARMOUR     EVADE   HIT POINTS        SIZE                1
+                                                                                                                                                         MODELS / SUPPLY
+                  UNIQUE                                    ANY PHASE COMMANDER: PASSIVE Treat this Unit’s                              FREEDOM FIGHTERS: PASSIVE The Supply Value of all
+                                                            Supply characteristic as increased by 1 for Controlling and                 Friendly Units Within 8" of this Unit cannot be reduced
+                                                            Contesting Mission Markers, completing objectives, and                      below 1 for Contesting Mission Markers and completing
+                                                            resolving Disengage checks.                                                 objectives.
+                                                                       MOVEMENT PHASE ORDERS: ACTIVE X CP REPEATABLE. Select another Friendly Biological Unit Within
+                                                                     8", spend CP and apply one of the following effects:
+                                                                        1 CP : That Unit’s first used weapon gains the CRITICAL HIT (2).
+                                                                        1 CP : That Unit ignores the Disengage penalty for the remainder of the Round.
+                                                                        2 CP : Remove the Activation Marker from that Unit.
+                                                                        ASSAULT PHASE
+                                                                      NAME                         RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      COMMANDO RIFLE               18        All      3    3+ Armoured              D3     1     BULKY, PIERCE Armoured (3)
+                                                                      “JUSTICE” REVOLVER            6     Ground      2    3+           -            -     2     ANTI-EVADE (2), SIDEARM, PINPOINT
+                                                                        COMBAT PHASE
+                                                                      NAME                         RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      BAYONET                       E     Ground      2    4+        Light          D3     1     -
+                   TERRAN
+                  COMBAT TAGS:                                                                                                                                                © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, GROUND                                                                                                                                          © 2026 Archon v 1.04.26
+                                                                                                                                                                                                       UNIT CARDS
+             TERRAN FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                            ⬆ UPGRADE
+                                                                                                                                                                                    Ø 32MM
+                                                                                RANGED COMBAT            CLOSE COMBAT                                 DRONE
+                                                          LIFESAVER
+                                                             COMBAT ROLE:
+                                                                                                                                                      POINT DEFENSE
+
+
+
+
+fold here
+                                                                                                                                                                                                     fold here
+
+
+
+
+                   POINT DEFENSE                                                      -         6+ 6+ 3                         -            1-1
+                   DRONE                                                             SPEED      ARMOUR   EVADE   HIT POINTS     SIZE            0
+                                                                                                                                          MODELS / SUPPLY
+                                                            ANY PHASE POINT DEFENSE LASER: PASSIVE When                       STRUCTURE: PASSIVE This Unit cannot be Activated
+                                                            another Friendly Unit Within 4" is targeted by a Ranged           in any Phase and cannot perform actions. Additionally,
+                                                            Attack without the INSTANT keyword, remove up to 2                its Current Supply Value is treated as 0, and it can
+                                                            dice from the Attack Pool. Then remove this Unit from the         never Control or Contest Mission Markers, ignoring the
+                                                            battlefield.                                                      standard Zero Supply Exception. This Unit cannot be a
+                                                             GLIDING: PASSIVE This model has DISPLACEMENT.                    target of an ability, unless stated otherwise.
+                   TERRAN                RAYNOR'S RAIDERS
+                  COMBAT TAGS:                                                                                                                                 © 2026 Blizzard Entertainment, Inc.
+                  ARMOURED, FLYING, MECHANICAL                                                                                                                 © 2026 Archon v 1.04.26
+                                                                                                                                                                                        UNIT CARDS
+             TERRAN FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                     ⬆ UPGRADE
+                                                                                                                                                                                            Ø 32MM
+                                                                                   RANGED COMBAT               CLOSE COMBAT
+                               CORE               DAMAGE DEALER
+                                                                                                                                                           (MARINE)
+                           ARMY SLOT:                        COMBAT ROLE:
+                                                                                                                                                           RAYNOR'S RAIDER
+
+
+
+
+fold here
+                                                                                                                                                                                                             fold here
+
+
+
+
+                    RAYNOR'S RAIDER                                                   4/7 5+ 5+ 2                                       2              1-6
+                    (MARINE)                                                           SPEED        ARMOUR     EVADE   HIT POINTS       SIZE              1
+                                                                                                                                                    MODELS / SUPPLY
+                                                                         MOVEMENT PHASE STIMPACK: ACTIVE 1 CP                           RAIDERS ROLL!: PASSIVE When this Unit is nominated
+                                                                     This Unit suffers NON-LETHAL DAMAGE (2). This Unit                 to deploy from Reserves, it may resolve its Stimpack
+                                                                     gains BUFF Speed (3). Additionally, its C-14 Rifle and             ability with the CP cost reduced by 1 (to a minimum
+                                                                     all Close Combat Weapons gain PRECISION (3).                       of 0).
+                                                                     RAPID REINFORCEMENTS: PASSIVE When this Unit is nominated to deploy from Reserves, it may resolve the
+                                                                     PLACE (10) effect from another Friendly Unit. No model may be set Within 8" of any Enemy model. This Unit's
+                                                                     Activation ends.
+                                                                        ASSAULT PHASE
+                                                                      NAME                     RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      C-14 RIFLE               12       All       2    3+      Light           D3     1   -
+                                                                     SLUGTHROWER: PASSIVE When this Unit makes                          GRENADES - FRAG: PASSIVE When this Unit makes
+                                                                     a Ranged Attack with a C-14 Rifle and the target is                a Ranged Attack with a C-14 Rifle and the target is
+                                                                     Within 8", that weapon gains ANTI-EVADE (1).                       Within 8", that weapon’s S Dice is replaced by D6.
+                                                                        COMBAT PHASE
+                                                                      NAME                     RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      BAYONET                   E     Ground      2    5+           -          -      1   -
+                   TERRAN                RAYNOR'S RAIDERS
+                  COMBAT TAGS:                                                                                                                                         © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, LIGHT, GROUND                                                                                                                            © 2026 Archon v 1.04.26
+                                                                                                                                                                                                UNIT CARDS
+             TERRAN FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.03.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                           ⬆ UPGRADE
+                                                                                                                                                                                                  Ø 80MM
+                                                                                                                                       FOR HELLFIRE MISSILES
+                             PIERCE Armoured (3), SIDEARM                1      D3    3+ Armoured            3      Ground       12       HAYWIRE MISSILES
+                     RANGE (24"), SIDEARM                                                                                              FOR HELLFIRE MISSILES
+                     INDIRECT FIRE, LOCKED IN (6), LONG                  1      D3      Light         5+     6      Ground       18       SCATTER MISSILES
+                                                          RNG Target RoA Hit Surge type S Dice Dmg Keyword                                                NAME
+                                                                                                            ⬆ UPGRADE                 ASSAULT PHASE
+                                  Underbelly Machine Gun weapons gain PRECISION (1).
+                                                 ⬆ UPGRADE ARES-CLASS TARGETING SYSTEM: PASSIVE This Unit’s Autocannon and                                ANY PHASE
+                                                                                     RANGED COMBAT                  CLOSE COMBAT
+                              ELITE               DAMAGE DEALER                                                                                                                      GOLIATH
+                           ARMY SLOT:                        COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                   fold here
+
+
+
+
+                   GOLIATH                                                                 7          4+             - 10 3                                  1-1
+                                                                                         SPEED        ARMOUR        EVADE    HIT POINTS       SIZE               2
+                                                                                                                                                          MODELS / SUPPLY
+                                                                        MOVEMENT PHASE TARGET LOCK: ACTIVE 1 CP Select one Enemy Unit Within 12". Whenever
+                                                                     a Friendly Goliath Unit targets that enemy with an Autocannon, that weapon gains Surge Type: Light,
+                                                                     Armoured, and S Dice: D3+1.
+                                                                        ASSAULT PHASE
+                                                                      NAME                       RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      AUTOCANNON                 12     Ground         9    4+            -          -      1    LONG RANGE (18")
+                                                                      UNDERBELLY                  8     Ground         6    3+        Light          D3     1    PINPOINT, SIDEARM
+                                                                      MACHINE GUN
+                                                                      HELLFIRE MISSILES          16        Flying      6    3+        Light          D3     1    ANTI-EVADE (1), SIDEARM
+                                                                     INDOMITABLE: PASSIVE While Engaged, this Unit                            DEVASTATING CHARGE: PASSIVE Immediately after
+                                                                     may target and be targeted by Unengaged Enemy                            this Unit completes a successful Charge, resolve the
+                                                                     Units. In both cases, the defending Unit gains an Evade                  IMPACT (4) 3+ effect.
+                                                                     Roll against those attacks.
+                                                                        COMBAT PHASE
+                                                                      NAME                       RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      STOMP                       E     Ground         4    5+            -          -      1    -
+                   TERRAN
+                  COMBAT TAGS:                                                                                                                                               © 2026 Blizzard Entertainment, Inc.
+                  ARMOURED, MECHANICAL, GROUND                                                                                                                               © 2026 Archon v 1.03.26
+                                                                                                                                                                                                      UNIT CARDS
+             TERRAN FACTION
+                                                                                                      fold here                                                                                                                                     fold here
+
+
+
+
+                                         ACADEMY                                                               ACADEMY                                                                BARRACKS                                                               BARRACKS
+                                                                                          CP: 1                                                                 TACTICAL CARD                                                           CP: 1                                                                 TACTICAL CARD
+                                           ANY PHASE ADVANCED TRAINING:                                                                                                                    MOVEMENT PHASE GO! GO! GO!: ACTIVE
+                                                                                                                                                                                                                                                                                                                                 TACTICAL CARDS
+
+
+
+
+                                            REACTION Once per Round, when a Friendly                                                                                                    The active Biological Unit performs a 2" Move
+                                           Support Unit activates a Special Ability that costs                                                                                          action. This does not count towards its action limit.
+                                           CP, resolve that ability with its CP cost reduced
+                                           by 1 (to a minimum of 0). Do not Exhaust this card.
+
+
+
+
+                                                                                                               UNIQUE                                                 TERRAN                                                                                                                                        TERRAN
+
+                                                                                                               SUPPLY: 2 × SUPPORT                                                                                                                           SUPPLY: 1 × CORE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon    v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+                                         TERRAN ARMED                                                          TERRAN ARMED                                                           ENGINEERING BAY                                                        ENGINEERING BAY
+                                         FORCES                                                                FORCES
+                                                                                          CP: 1                                                                 FACTION CARD                                                            CP: 1                                                                 TACTICAL CARD
+
+                                               MOVEMENT PHASE TACTICAL RETREAT:                                                                                                         ANY PHASE INFANTRY ARMOR: REACTION
+                                            ACTIVE The active Unit ignores the Disengage                                                                                                Use before a Friendly Biological Unit makes an
+                                           penalty for the remainder of the Round.                                                                                                      Armour Roll. That Unit gains TOUGH (1) for this
+                                                                                                                                                                                        roll.
+                                                MOVEMENT PHASE TERRAN TENACITY:
+                                            ACTIVE Once per Game. Immediately claim the                                                                                                      ASSAULT PHASE INFANTRY WEAPONS:
+                                           First Player Marker. No other player may claim the                                                                                            ACTIVE The active Biological Unit’s first Ranged
+                                           First Player Marker for the remainder of this Phase.                                                                                         Weapon used gains CRITICAL HIT (1).
+
+
+
+
+© 2026 Blizzard Entertainment, Inc.
+© 2026 Archon
+                                                                                                               UNIQUE                                                 TERRAN                                                                                                                                        TERRAN
+                                                                                                                                                                                                                                                                                                                                       TERRAN FACTION
+
+
+
+
+                                                                                                               SUPPLY: 3 × CORE, 1 × ELITE, 1 × SUPPORT, 1 × AIR                                                                                             SUPPLY: 1 × CORE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon    v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+May 2026, v.1.0
+                                                                                                      fold here                                                                                                                                     fold here
+                                                                                                      fold here                                                                                                                                    fold here
+
+
+
+
+                                         DROPSHIP                                                              DROPSHIP                                                               SUPPLY DEPOT                                                          SUPPLY DEPOT
+                                                                                          CP: 1                                                                 TACTICAL CARD                                                          CP: 1                                                                 TACTICAL CARD
+                                              MOVEMENT PHASE STRAP IN!: ACTIVE                                                                                                             MOVEMENT PHASE ADDITIONAL
+                                                                                                                                                                                                                                                                                                                                TACTICAL CARDS
+
+
+
+
+                                           The active, Unengaged Ground Unit is returned to                                                                                             SUPPLY DEPOTS: ACTIVE The active Unit’s
+                                           Reserves instead of performing an action.                                                                                                    Supply Value is improved by 1 for Controlling
+                                                                                                                                                                                        and Contesting Mission Markers and completing
+                                                                                                                                                                                        objectives.
+                                               MOVEMENT PHASE READY FOR
+                                           DUST-OFF : ACTIVE Set a Faction Indicator
+                                           anywhere on the battlefield more than 10" away
+                                           from any Enemy model. At the End of the Round,
+                                           the controlling player may Deploy one Ground
+                                           Unit from Reserves in base-to-base contact with
+                                           this Faction Indicator.
+
+
+
+
+                                                                                                               UNIQUE                                                 TERRAN                                                                                UNIQUE                                                 TERRAN
+
+                                                                                                               SUPPLY: 1 × CORE, 1 × SUPPORT                                                                                                                SUPPLY: 1 × CORE, 1 × ELITE, 1 × HERO
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+                                         RAYNOR'S RAIDERS                                                      RAYNOR'S RAIDERS                                                       ORBITAL COMMAND                                                       ORBITAL COMMAND
+                                                                                          CP: 1                                                                 FACTION CARD                                                           CP: 1                                                                 TACTICAL CARD
+                                                MOVEMENT PHASE RAPID INGRESS:                                                                                                               MOVEMENT PHASE COMSAT STATION:
+                                            ACTIVE Set a Friendly Point Defence Drone Unit                                                                                               ACTIVE Select one table edge that is not a player’s
+                                           anywhere on the battlefield, more than 1" away                                                                                               Entry Edge. Until the End of the Round, Enemy
+                                           from any Enemy model. Remove this Unit at the                                                                                                Units cannot Deploy from that edge.
+                                           End of the Round.
+                                                                                                                                                                                            MOVEMENT PHASE SCANNER SWEEP:
+                                                MOVEMENT PHASE READY FOR                                                                                                                 ACTIVE Set a Faction Indicator anywhere on the
+                                           PICKUP?: ACTIVE Once Per Game. The active Unit                                                                                               battlefield. While Enemy Units are Within 6" of
+                                           resolves the PLACE (12) effect. Models set by this                                                                                           this Faction Indicator, they lose HIDDEN Status.
+                                           effect cannot be set up Within the Engagement
+                                           Range of any Enemy Unit. This resolves instead of
+
+
+
+
+© 2026 Blizzard Entertainment, Inc.
+                                           performing a standard action.
+
+
+                                                                                                                                                                      TERRAN
+
+
+
+
+© 2026 Archon
+                                                                                                               UNIQUE                                   RAYNOR'S RAIDERS                                                                                    UNIQUE                                                 TERRAN
+                                                                                                                                                                                                                                                                                                                                      TERRAN FACTION
+
+
+
+
+                                                                                                               SUPPLY: 3 × CORE, 1 × HERO, 1 × SUPPORT, 1 × AIR                                                                                             SUPPLY: 1 × CORE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+May 2026, v.1.0
+                                                                                                      fold here                                                                                                                                    fold here
+                                                                                                       fold here                                                                                                                                    fold here
+
+
+
+                                         BARRACKS                                                               BARRACKS                                                               FACTORY                                                               FACTORY
+                                         (TECH LAB)                                                             (TECH LAB)
+                                                                                           CP: 2                                                                 TACTICAL CARD                                                          CP: 1                                                                 TACTICAL CARD
+                                              MOVEMENT PHASE GO! GO! GO!: ACTIVE                                                                                                            MOVEMENT PHASE FIELD REPAIR: ACTIVE
+                                                                                                                                                                                                                                                                                                                                 TACTICAL CARDS
+
+
+
+
+                                           The active Biological Unit performs a 2" Move                                                                                                 The active Mechanical Unit resolves the HEAL (2)
+                                           action. This does not count towards its action limit.                                                                                         effect.
+
+
+                                                ASSAULT PHASE LET'S HAVE A BLAST!:
+                                            ACTIVE The active Biological Unit’s first Ranged
+                                           Weapon used gains ANTI-EVADE (1).
+
+
+
+
+                                                                                                                UNIQUE                                                 TERRAN                                                                                                                                       TERRAN
+
+                                                                                                                SUPPLY: 1 × CORE, 1 × ELITE                                                                                                                  SUPPLY: 2 × ELITE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon    v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.03.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.03.26
+
+
+
+
+                                         BARRACKS (PROXY)                                                       BARRACKS (PROXY)                                                       ARMORY                                                                ARMORY
+                                                                                           CP: 2                                                                 TACTICAL CARD                                                          CP: 1                                                                 TACTICAL CARD
+
+                                              MOVEMENT PHASE GO! GO! GO!: ACTIVE                                                                                                         ANY PHASE VEHICLE PLATING: REACTION
+                                           The active Biological Unit performs a 2" Move                                                                                                 Use before a Friendly Mechanical Unit makes an
+                                           action. This does not count towards its action limit.                                                                                         Armour Roll. That Unit gains TOUGH (1) for this
+                                                                                                                                                                                         roll.
+                                               MOVEMENT PHASE ARMED AND READY:
+                                            ACTIVE The active Biological Unit Deploys from                                                                                                    ASSAULT PHASE VEHICLE WEAPONS:
+                                           any table edge that is not a player's Entry Edge.                                                                                              ACTIVE The active Mechanical Unit’s first Ranged
+                                           No model may be placed Within 10" of any Enemy                                                                                                Weapon used gain CRITICAL HIT (1).
+                                           model. This ability cannot be used if another
+                                           Friendly Biological Unit has already been Deployed
+                                           this Round.
+
+
+
+
+© 2026 Blizzard Entertainment, Inc.
+© 2026 Archon
+                                                                                                                UNIQUE                                                 TERRAN                                                                                                                                       TERRAN
+                                                                                                                                                                                                                                                                                                                                       TERRAN FACTION
+
+
+
+
+                                                                                                                SUPPLY: 2 × CORE                                                                                                                             SUPPLY: 1 × ELITE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon    v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.03.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.03.26
+
+
+
+
+May 2026, v.1.0
+                                                                                                       fold here                                                                                                                                    fold here
+                                                                                                                                                              TERRAN FACTION
+SCENARIO CARDS - MISSION & DEPLOYMENT
+
+                                                                                          fold here
+
+
+
+
+            SUPPLY DROP                                               6 +2
+                                                                     SUPPLY   PER ROUND
+                                                                                                   SUPPLY DROP                                                 4
+                                                                                                                                                              SUPPLY
+                                                                                                                                                                         +1
+                                                                                                                                                                        PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 4
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Deactivated.                                                    All Mission Markers are Deactivated.
+              START OF THE ROUND (1-4): Randomly determine one                                        START OF THE ROUND (2-4): Randomly determine one
+              Deactivated Mission Marker (1-4) and flip it to its                                     Deactivated Mission Marker (1,2,5) and flip it to its
+              Activated side.                                                                         Activated side.
+              START OF THE ROUND 5: Mission Marker 5 is
+              automatically Activated.                                                                SCORING CONDITIONS: Score VPs equal to
+                                                                                                      Enemy Supply destroyed this Round.
+              SCORING CONDITIONS: Score VPs equal to                                                  FROM THE START OF THE SECOND ROUND: For each
+              Enemy Supply destroyed this Round.                                                      activated Controlled Mission Marker, gain VPs equal to
+              FROM THE START OF THE FIRST ROUND: For each                                             the Game Round number in which that Mission Marker
+              activated Controlled Mission Marker, gain VPs equal to                                  was Activated and remove it.
+              the Game Round number in which that Mission Marker
+              was Activated and remove it.                                                            ADDITIONAL CONDITIONS:
+                                                                                                      SPECIAL WINNING CONDITIONS: The game ends
+                                                                                                      immediately if a Player leads by 8+ VPs.
+              ADDITIONAL CONDITIONS:
+              SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 12+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+
+            HOLD POSITION                                             6 +2
+                                                                     SUPPLY   PER ROUND
+                                                                                                   HOLD POSITION                                               3
+                                                                                                                                                              SUPPLY
+                                                                                                                                                                         +1
+                                                                                                                                                                        PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 5
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Activated.                                                      All Mission Markers are Activated.
+
+
+              SCORING CONDITIONS:                                                                     SCORING CONDITIONS:
+              Score VPs equal to Enemy Supply destroyed this Round.                                   Score VPs equal to Enemy Supply destroyed this Round.
+              FROM THE START OF THE SECOND ROUND:                                                     FROM THE START OF THE SECOND ROUND:
+              Gain 1 VP for each Controlled Mission Marker that is                                    Gain 1 VP for each Controlled Mission Marker that is
+              Neutral or associated with your colour.                                                 Neutral or associated with your colour.
+              Gain 2 VPs for each Controlled Mission Marker associated                                Gain 2 VPs for each Controlled Mission Marker associated
+              with the Opponent colour.                                                               with the Opponent colour.
+
+
+              ADDITIONAL CONDITIONS:                                                                  ADDITIONAL CONDITIONS:
+              SPECIAL WINNING CONDITIONS: The game ends                                               SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 10+ VPs.                                               immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+                                                                                          fold here
+                                                                                                                                       © 2026 Blizzard Entertainment, Inc.     © 2026 Archon   May 2026, v.1.0
+                                                                                                                                                              TERRAN FACTION
+SCENARIO CARDS - MISSION & DEPLOYMENT
+
+                                                                                          fold here
+
+
+
+
+            FRONTLINES                                                6 +2
+                                                                     SUPPLY   PER ROUND
+                                                                                                   FRONTLINES                                                  3
+                                                                                                                                                              SUPPLY
+                                                                                                                                                                         +1
+                                                                                                                                                                        PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 5
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Activated.                                                      All Mission Markers are Activated.
+
+
+              SCORING CONDITIONS:                                                                     SCORING CONDITIONS:
+              Score VPs equal to Enemy Supply destroyed this Round.                                   Score VPs equal to Enemy Supply destroyed this Round.
+              FROM THE START OF THE SECOND ROUND:                                                     FROM THE START OF THE SECOND ROUND:
+              Gain 1 VP for each Controlled Mission Marker.                                           Gain 1 VP for each Controlled Mission Marker.
+              Gain an additional 2 VPs for a Marker if you gained                                     Gain an additional 2 VPs for a Marker if you gained
+              Control of it from the Opponent this Round.                                             Control of it from the Opponent this Round.
+
+
+              ADDITIONAL CONDITIONS:                                                                  ADDITIONAL CONDITIONS:
+              SPECIAL WINNING CONDITIONS: The game ends                                               SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 10+ VPs.                                               immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+
+            GATHER THE                                                6 +2                         GATHER THE                                                  3         +1
+            RESOURCES                                                SUPPLY   PER ROUND            RESOURCES                                                  SUPPLY    PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 5
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Activated.                                                      All Mission Markers are Activated.
+
+
+              SCORING CONDITIONS:                                                                     SCORING CONDITIONS:
+              Score VPs equal to Enemy Supply destroyed this Round.                                   Score VPs equal to Enemy Supply destroyed this Round.
+              FROM THE START OF THE SECOND ROUND:                                                     FROM THE START OF THE SECOND ROUND:
+              Gain 2 VPs for each Controlled Mission Marker associated                                Gain 2 VPs for each Controlled Mission Marker associated
+              with the Opponent colour.                                                               with the Opponent colour.
+
+
+              ADDITIONAL CONDITIONS:                                                                  ADDITIONAL CONDITIONS:
+                 ASSAULT PHASE: If an Unengaged Unit is                                                  ASSAULT PHASE: If an Unengaged Unit is
+              Within 3" of a Controlled Neutral Mission Marker or                                     Within 3" of a Controlled Neutral Mission Marker or
+              associated with the Opponent, this unit may perform the                                 associated with the Opponent, this unit may perform the
+              Gather Action instead of a standard action.                                             Gather Action instead of a standard action.
+              GATHER ACTION: Gain 1 VP.                                                               GATHER ACTION: Gain 1 VP.
+              SPECIAL WINNING CONDITIONS: The game ends                                               SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 10+ VPs.                                               immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+                                                                                          fold here
+                                                                                                                                       © 2026 Blizzard Entertainment, Inc.     © 2026 Archon   May 2026, v.1.0
+                                                                                                                                                                                                            TERRAN FACTION
+            SCENARIO CARDS - MISSION & DEPLOYMENT
+                                                                                                                              fold here
+
+
+
+                                         DIVIDE AND                                                      8 +2                          DIVIDE AND                                                           4             +1
+                                         CONQUER                                                        SUPPLY    PER ROUND            CONQUER                                                           SUPPLY          PER ROUND
+
+                                                                                                    GAME LENGTH: 4                                                                                     GAME LENGTH: 4
+
+                                           MISSION PARAMETERS:                                                                            MISSION PARAMETERS:
+                                           All Mission Markers are Activated.                                                             All Mission Markers are Activated.
+                                           Split the Battlefield in four quarters as shown on the                                         Split the Battlefield in four quarters as shown on the
+                                           Deployment Card.                                                                               Deployment Card.
+
+
+                                            SCORING CONDITIONS:                                                                           SCORING CONDITIONS:
+                                           Score VPs equal to Enemy Supply destroyed this Round.                                          Score VPs equal to Enemy Supply destroyed this Round.
+                                           FROM THE START OF THE FIRST ROUND:                                                             FROM THE START OF THE FIRST ROUND:
+                                           Calculate Total Current Supply in each battlefield quarter.                                    Calculate Total Current Supply in each battlefield quarter.
+                                           Gain 1 VP for each quarter where your Total Current                                            Gain 1 VP for each quarter where your Total Current
+                                           Supply is higher than the Opponent's.                                                          Supply is higher than the Opponent's.
+                                           Only Units Wholly Within a quarter contribute their                                            Only Units Wholly Within a quarter contribute their
+                                           Supply to this check.                                                                          Supply to this check.
+                                           If a Unit controls a Mission Marker, that Unit is worth 1                                      If a Unit controls a Mission Marker, that Unit is worth 1
+                                           extra Supply for controlling quarters.                                                         extra Supply for controlling quarters.
+                                           Gain 2 VP for Controlling Mission Marker 5.                                                    Gain 2 VP for Controlling Mission Marker 5.
+
+                                           ADDITIONAL CONDITIONS:                                                                         ADDITIONAL CONDITIONS:
+                                           SPECIAL WINNING CONDITIONS: The game ends                                                      SPECIAL WINNING CONDITIONS: The game ends
+                                           immediately if a Player leads by 10+ VPs.                                                      immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                                                           STANDARD ENGAGEMENT                                                                                          SKIRMISH LEVEL
+                                       © 2026 Blizzard Entertainment, Inc. © 2026 Archon                          v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                                  v 1.04.26
+
+
+
+                                                                                                                              fold here
+                                                        v 1.03.26               © 2026 Blizzard Entertainment, Inc. © 2026 Archon                                               v 1.03.26                     © 2026 Blizzard Entertainment, Inc. © 2026 Archon
+
+                SKIRMISH LEVEL                                                                                                         SKIRMISH LEVEL
+                                                                                                                                                                                12"
+
+                                                  RED                6"                                                                                                  BLUE               6"                   6"
+                                                                                                                                                                                                                     1
+                                                                                                                                                                12"                                                       6"
+                                                                                      18"
+
+                                                                                                                                                                         6"
+                                                                                            6"
+                                                    2                5                 1                                                                                                         5
+                                               6"
+                                                                                                                                                                                                                         6"
+
+                                                    18"                                                                                                                                                                         12"
+                                                                                                                                                                      6"
+                                                                                                                                                                              2
+                                                                     6"           BLUE                                                                                          6"                     6"           RED
+                                                                                                                                                                                                                12"
+
+                              36×36˝                                   ABANDONED CAMP                                                                36×36˝                                                         AGRIA VALLEY
+fold here
+
+
+
+
+                                                                                                                                                                                                                                                                   fold here
+
+
+
+
+                GAUNTLET                                                                          54×36˝                               TYPHOON                                                                                  54×36˝
+
+                                                                                                                                                                                                                         24"
+
+                                                                     6"                           RED                                                            6"                               6"                                RED
+                                                                                                                                                                2                 12"
+                                               12"                               12"                                                                      6"
+                                                                                                                                                                                                                                             18"
+                                       12"      1                                 3           18"                                                                  18"            1
+
+                                                                    5                                                                                      6"
+                                                                                                                                                                                                 5
+                                                                                                                                                                                                                                        6"
+                                            18"           4                                 2     12"                                                                                                           4             18"
+                                                          12"                               12"                                                   18"
+                                                                                                                                                                                                                                        6"
+                                                                                                                                                                                                               12"                  3
+                                     BLUE                            6"                                                                                    BLUE                                  6"                            6"
+                                                                                                                                                                      24"
+                                                                                           STANDARD ENGAGEMENT                                                                                                           STANDARD ENGAGEMENT
+             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                v 1.03.26                                             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                       v 1.03.26
+
+
+
+                                                                                                                                                                              © 2026 Blizzard Entertainment, Inc.              © 2026 Archon         May 2026, v.1.0
+                                                                                                                                                                                                             TERRAN FACTION
+            SCENARIO CARDS - MISSION & DEPLOYMENT
+
+
+                                                         v 1.03.26                     © 2026 Blizzard Entertainment, Inc. © 2026 Archon                                                v 1.03.26              © 2026 Blizzard Entertainment, Inc. © 2026 Archon
+
+                SKIRMISH LEVEL                                                                                                                     SKIRMISH LEVEL
+                                                      12"                                                                                                                                           12"
+
+                                                  BLUE               6"                                                                                                                         6" RED            6"
+                                         12"                                                                                                                                                                          1
+                                                                                                                                                                                                                            6"
+                                                                          18"
+
+                                                  6"                                                                                                                          BLUE
+                                                                                                  6"
+                                                       2                  5                  1                                                                          12"      6"                  5                    6"     12"
+                                                 6"
+                                                                                                 6"                                                                                                                      BLUE
+
+                                                                                                                                                                              6"
+                                                                                                        12"                                                                           2
+                                                                                6"          RED                                                                                         6"           RED 6"
+
+                                                                                            12"                                                                                                     12"
+
+                              36×36˝                                                                    DIRT SIDE                                            36×36˝                                                              FRONTIER
+fold here
+
+
+
+
+                                                                                                                                                                                                                                                                    fold here
+                ACROPOLIS                                                                               54×36˝                                     PROVING GROUNDS                                                                54×36˝
+
+                                           18"                                                        18"                                                                                                                              6"
+
+                            6"      RED                                    6"                          BLUE          6"                                                                 6"               BLUE
+                                               12"                                               12"                                                                          12"                   12"                   12"
+                                         12"     1                                                2     12"                                                        12"         1                     5                    3            12"
+
+                                                                          5
+
+                                         12"     4                                                3     12"                                                                18"            4                      2             18"
+                                                 12"                                             12"
+                                                                                                                                                                                          12"                   12"
+                            6"      BLUE                                                                    RED      6"                                          RED                                                                 RED
+                                           18"                                                                                                                     6"
+                                                                                                 STANDARD ENGAGEMENT                                                                                                      STANDARD ENGAGEMENT
+             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                       v 1.03.26                                              © 2026 Blizzard Entertainment, Inc. © 2026 Archon                v 1.03.26
+
+                                                         v 1.03.26                     © 2026 Blizzard Entertainment, Inc. © 2026 Archon
+
+                SKIRMISH LEVEL
+                                                           18"
+
+                                                  RED                6"                   6"
+                                                                                             1
+                                                                                                  6"
+
+
+
+                                                       12"       5
+
+
+
+                                                                                                  6"
+                                                                                             2
+                                                  BLUE               6"                   6"
+                                                           18"
+
+
+                              36×36˝                                                             CHAR PLAINS
+fold here
+
+
+
+
+                                                                                                                                           fold here
+
+
+
+
+                BREACH                                                                                  54×36˝
+
+                                                                                                              6"
+
+                                                              6"                      6"
+                                            18"              1                          2             18"
+
+
+
+
+                                  BLUE                                    5                                 RED
+
+
+                                            18"              4                          3             18"
+                                                              6"                      6"
+                                    6"
+                                                                                                 STANDARD ENGAGEMENT
+             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                       v 1.03.26
+
+
+                                                                                                                                                                                      © 2026 Blizzard Entertainment, Inc.        © 2026 Archon        May 2026, v.1.0
+

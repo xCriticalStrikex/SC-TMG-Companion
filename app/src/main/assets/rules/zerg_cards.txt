@@ -1,0 +1,1299 @@
+                                                                                                                                                                               ZERG FACTION
+   UNIT CARDS
+
+
+
+
+            © 2026 Archon v 1.03.26                                                                                                                                     BIOLOGICAL, LIGHT, GROUND
+            © 2026 Blizzard Entertainment, Inc.                                                                                                                         COMBAT TAGS:
+
+                                                                                                                                                                                                 ZERG
+
+
+
+
+                                                             -       1    -           -          4+     2       Ground      E                 SCYTHE
+                                                      RNG Target RoA Hit Surge type S Dice Dmg Keyword                                          NAME
+
+                                                                                                                                COMBAT PHASE
+
+             attack is fully resolved, this Unit, if Unengaged, may perform a Move action Directly Towards the attacking Unit.
+             LUNGE: REACTION 1 BM When another Friendly Unit Within 10" is the target of a Ranged Attack, after the
+
+                                                                         Armoured
+                                                             -       2     Light, D3+1           3+     3         All    12             NEEDLE SPINES
+                                                      RNG Target RoA Hit Surge type S Dice Dmg Keyword                                          NAME
+
+                                                                                                                                ASSAULT PHASE
+
+
+                                                                     ANY PHASE SQUADRON: PASSIVE This Unit’s Horizontal Coherency is 4".
+                                           MODELS / SUPPLY
+                                  3               2              1             SIZE       HIT POINTS    EVADE      ARMOUR       SPEED
+
+                              1-1 2-2 3-4                                      2             4/8 5+ 5+ 4                                                                 HYDRALISK
+fold here
+
+
+
+
+                                                                                                                                                                                                                          fold here
+                                                                                                                                                     COMBAT ROLE:                      ARMY SLOT:
+
+            HYDRALISK                                                                         CLOSE COMBAT                  RANGED COMBAT
+                                                                                                                                                    DAMAGE DEALER                      ELITE
+
+                                                       ANY PHASE              ⬆ UPGRADE                                             LURKING: PASSIVE If this Unit has Stationary Status, it
+                                                       ANCILLARY CARAPACE: PASSIVE This Unit gains TOUGH                           is eligible to make an Evade Roll against the first Ranged
+                                                       (1) on the first Armour Roll of each Activation.                            Attack targeting it this Round. If this Unit is ON CREEP, it
+                                                                                                                                   gains +1 Modifier to this Evade Roll.
+
+
+                                                                 MOVEMENT PHASE                        ⬆ UPGRADE
+                                                             BURROW AMBUSH: PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE
+                                                             (18) effect from the controlling player's Entry Edge. No model may be set Within 10" of any Enemy model. This
+                                                             Unit's Activation ends.
+
+
+                                                                 ASSAULT PHASE                   ⬆ UPGRADE
+                                                             GROOVED SPINES: PASSIVE This Unit's Needle Spines ranged weapon gains LONG RANGE (16").
+
+
+
+
+            40×100MM
+
+
+            ⬆ UPGRADE                                                                                                                                                     © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                                          © 2026 Archon v 1.03.26
+
+
+
+
+                                                                                                                                                 © 2026 Blizzard Entertainment, Inc.      © 2026 Archon         May 2026, v.1.0
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                            ⬆ UPGRADE
+                                                                                                                                                                                                        Ø 40MM
+                                                                                  RANGED COMBAT                 CLOSE COMBAT
+                              HERO               DAMAGE DEALER
+                                             REACTION      PASSIVE     ACTIVE   1 CP   1 PE     1 BM
+                                                                                                                                                                                     KERRIGAN
+                           ARMY SLOT:                     COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                         fold here
+
+
+
+
+                                                                                                                         1 BM        1 PE     1 CP       ACTIVE       PASSIVE   REACTION
+                    KERRIGAN                                                             7 5+ 6+ 9                                          2                1-1
+                                                                                        SPEED        ARMOUR     EVADE   HIT POINTS          SIZE                  1
+                                                                                                                                                          MODELS / SUPPLY
+                  UNIQUE                                    ANY PHASE COMMANDER: PASSIVE Treat this Unit’s Supply characteristic as increased by 1 for Controlling and
+                                                             Contesting Mission Markers, completing objectives, and resolving Disengage checks.
+                                                                        MOVEMENT PHASE CRUSHING GRIP: ACTIVE                                MUTATING CARAPACE: ACTIVE 1 BM Select one
+                                                                      1 BM Select one Enemy Unit Within 12". That Unit                      Enemy Unit Within 18". This Unit is eligible to make
+                                                                     counts as Activated in this Phase (set an Activation                   an Evade Roll against all attacks made by the selected
+                                                                     Marker next to it).                                                    Enemy Unit, with a +2 Modifier applied to those Evade
+                                                                                                                                            Rolls.
+                                                                         ASSAULT PHASE
+                                                                      NAME                      RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      ENERGY BLAST               8       All       5    3+       Light,            D3       1     -
+                                                                                                                               Armoured
+                                                                     LEAPING STRIKE: ACTIVE 1 BM If Unengaged,                              DEVASTATING CHARGE: PASSIVE Immediately after
+                                                                     resolve the PLACE (6) effect.                                          this Unit completes a successful Charge, resolve the
+                                                                                                                                            IMPACT (4) 4+ effect.
+                                                                         COMBAT PHASE
+                                                                      NAME                      RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      BLADES                     E     Ground      6    4+            -              -      2     CRITICAL HIT (2)
+                   ZERG
+                  COMBAT TAGS:                                                                                                                                                     © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, PSIONIC, GROUND                                                                                                                                      © 2026 Archon v 1.04.26
+                                                                                                                                                                                                            UNIT CARDS
+             ZERG FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                     ⬆ UPGRADE
+                                                                                                                                                                                             Ø 80MM
+                                                                                  RANGED COMBAT              CLOSE COMBAT
+                                                         TACTICIAN
+                                             REACTION      PASSIVE     ACTIVE   1 CP   1 PE     1 BM
+                                                                                                                                                                     OMEGA WORM
+                                                          COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                              fold here
+
+
+
+
+                                                                                                                     1 BM         1 PE     1 CP   ACTIVE   PASSIVE   REACTION
+                   OMEGA WORM                                                            -         5+         - 10 3                                  1-1
+                                                                                        SPEED      ARMOUR   EVADE    HIT POINTS          SIZE              0
+                                                                                                                                                   MODELS / SUPPLY
+                                                            ANY PHASE DETECTION: PASSIVE While Enemy Units                         OMEGA NETWORK: PASSIVE The base of the Omega
+                                                             are Within 6" of this Unit, they lose HIDDEN Status.                  Worm counts as an Entry Edge. Each Round, Friendly Units
+                                                             SOURCE OF CREEP: PASSIVE A Friendly or Enemy Ground                   with a combined Supply cost of 2 or less may be Deployed
+                                                             Zerg Unit Within 6" of this Unit, counts as being ON CREEP.           via this Entry Edge.
+                                                             STRUCTURE: PASSIVE This Unit cannot be Activated in                   If a Friendly Leading model finishes a Move, Disengage, or
+                                                             any Phase and cannot perform actions. Additionally, its               Run action in base-to-base contact with the Omega Worm,
+                                                             Current Supply Value is treated as 0, and it can never                the controlling player may remove that Unit from the
+                                                             Control or Contest Mission Markers, ignoring the standard             battlefield and return it to Reserves.
+                                                             Zero Supply Exception. This Unit cannot be a target of an
+                                                             ability, unless stated otherwise.
+                  ZERG            KERRIGAN'S SWARM
+                  COMBAT TAGS:                                                                                                                                          © 2026 Blizzard Entertainment, Inc.
+                  ARMOURED, BIOLOGICAL, GROUND                                                                                                                          © 2026 Archon v 1.04.26
+                                                                                                                                                                                                 UNIT CARDS
+             ZERG FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                           ⬆ UPGRADE
+                                                                                                                                                                                                      Ø 32MM
+                                                                                  RANGED COMBAT                 CLOSE COMBAT
+                              ELITE              DAMAGE DEALER
+                                                                                                                                                            RAPTOR (ZERGLING)
+                           ARMY SLOT:        REACTION      PASSIVE
+                                                          COMBAT ROLE: ACTIVE   1 CP   1 PE     1 BM
+                                                                                                                                                            KERRIGAN SWARM
+
+
+
+
+fold here
+                                                                                                                                                                                                                       fold here
+
+
+
+
+                                                                                                                         1 BM        1 PE     1 CP      ACTIVE     PASSIVE   REACTION
+                    KERRIGAN SWARM                                                     5/9 5+ 4+ 2                                          1             1-3 4-6
+                    RAPTOR (ZERGLING)                                                   SPEED        ARMOUR     EVADE   HIT POINTS          SIZE               0             1
+                                                                                                                                                               MODELS / SUPPLY
+                  UNIQUE                                    ANY PHASE SQUADRON: PASSIVE This Unit’s                                   RAPTOR STRAIN: PASSIVE This Unit can move through
+                                                            Horizontal Coherency is 4".                                               IMPASSABLE TERRAIN of Size 4 or less and change
+                                                                                                                                      elevation without using ACCESS POINTS.
+                                                                        ASSAULT PHASE LEAP: ACTIVE 1 BM When                                DEVASTATING CHARGE: PASSIVE Immediately after
+                                                                     determining Charge Distance for this Unit, add 2 to                    this Unit completes a successful Charge, resolve the
+                                                                     the Charge Distance.                                                   IMPACT (2) 5+ effect.
+                                                                     ADRENAL OVERLOAD: ACTIVE 1 BM This Unit gains a +1 Modifier to all IMPACT Hit Rolls.
+                                                                         COMBAT PHASE
+                                                                      NAME                      RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      CLAWS                      E     Ground      2    3+       Light,            D6      1       INSTANT
+                                                                                                                               Armoured
+                   ZERG          KERRIGAN'S SWARM
+                  COMBAT TAGS:                                                                                                                                                   © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, LIGHT, GROUND                                                                                                                                      © 2026 Archon v 1.04.26
+                                                                                                                                                                                                          UNIT CARDS
+             ZERG FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                             ⬆ UPGRADE
+                                                                                                                                                                                                         Ø 80MM
+                    completing objectives.
+                    That Unit’s Supply characteristic is increased by 1 for Controlling and Contesting Mission Markers and
+                    DOMINEERING PRESENCE: ACTIVE 1 BM Select another Friendly Unit Within 6" (Line of Sight is not required).
+                                                                                                       ⬆ UPGRADE              MOVEMENT PHASE
+                                                    CREEP SPEED: PASSIVE While this Unit is ON CREEP, increase this Unit's Speed characteristic by 2.
+                                                                                                                              ⬆ UPGRADE                    ANY PHASE
+                                                                                  RANGED COMBAT                  CLOSE COMBAT
+                       SUPPORT                            LIFESAVER
+                                             REACTION      PASSIVE     ACTIVE   1 CP   1 PE     1 BM
+                                                                                                                                                                                                QUEEN
+                           ARMY SLOT:                      COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                          fold here
+
+
+
+
+                                                                                                                          1 BM        1 PE     1 CP       ACTIVE       PASSIVE   REACTION
+                    QUEEN                                                                4 4+                     -           9              3                1-1
+                                                                                        SPEED        ARMOUR      EVADE   HIT POINTS          SIZE                  1
+                                                                                                                                                           MODELS / SUPPLY
+                                                            ANY PHASE SPAWN CREEP TUMOR: ACTIVE 1 BM                                   RESTORATION: REACTION 1 BM Use when a Friendly Unit
+                                                            Set a Creep Tumor token in base-to-base contact with                       Within 4" receives a DEBUFF. Remove all DEBUFFS from it.
+                                                            this Unit.                                                                 PSIONIC LINK: PASSIVE Once per Round, if there are
+                                                             TRANSFUSION: REACTION 1 BM Use when another                               at least 7 Friendly models Within 6" of this Unit, it may
+                                                             Friendly Biological Unit (including a Structure) suffers                  resolve its Special Ability with the BM cost reduced by 1.
+                                                             Damage Within 4". Reduce the Total Damage before
+                                                             allocation by 2.
+                                                                          ASSAULT PHASE
+                                                                      NAME                      RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      TALONS                     6     Ground       4    4+       Light             D3       2     -
+                                                                      ACID SPINES                12     Flying      4    4+       Light,            D3       2     -
+                                                                                                                                Armoured
+                                                                     DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT
+                                                                     (4) 3+ effect.
+                                                                          COMBAT PHASE
+                                                                      NAME                      RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      TALONS                     E     Ground       3    4+            -              -      1     -
+                    ZERG
+                  COMBAT TAGS: ARMOURED,                                                                                                                                            © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, PSIONIC, GROUND                                                                                                                                       © 2026 Archon v 1.04.26
+                                                                                                                                                                                                             UNIT CARDS
+             ZERG FACTION
+                                                                                                                                                                                        ZERG FACTION
+   UNIT CARDS
+
+
+
+
+            © 2026 Archon v 1.04.26                                                                                                                                       ARMOURED, BIOLOGICAL, GROUND
+            © 2026 Blizzard Entertainment, Inc.                                                                                                                           COMBAT TAGS:
+
+                                                                                                                                                                                                          ZERG
+
+
+
+
+                                                                -       1    -              -           4+     2       Ground     E                     CLAWS
+                                                      RNG Target RoA Hit Surge type S Dice Dmg Keyword                                                   NAME
+
+                                                                                                                                       COMBAT PHASE
+
+               IMPACT (2) 4+ effect.                                                              HEAL (2) effect.
+               this Unit completes a successful Charge, resolve the                               Activated, if it has the Burrowed Status, resolve the
+               DEVASTATING CHARGE: PASSIVE Immediately after                                      REGENERATION: PASSIVE When this Unit becomes
+
+                                                                -       1    -              -           3+     3       Ground     8               ACID SALIVA
+                                                      RNG Target RoA Hit Surge type S Dice Dmg Keyword                                                   NAME
+
+                                                                                                                                       ASSAULT PHASE
+
+                                ANY PHASE BURROW: ACTIVE 2 BM If this Unit is Unengaged, it gains or loses the Burrowed Status.
+                                                  MODELS / SUPPLY
+                                                  1                 0              SIZE          HIT POINTS    EVADE     ARMOUR        SPEED
+
+                                              1-1 2-3                              2                4/7 3+ 5+ 4                                                                                 ROACH
+                                      REACTION        PASSIVE       ACTIVE       1 CP     1 PE     1 BM
+fold here
+
+
+
+
+                                                                                                                                                                                                                                   fold here
+                                                                                                                                                              COMBAT ROLE:                      ARMY SLOT:
+
+            ROACH
+                                                                                                                                1 BM     1 PE    1 CP   ACTIVE    PASSIVE     REACTION
+                                                                                                                                                             TANK                               CORE
+                                                                                                     CLOSE COMBAT                 RANGED COMBAT
+
+
+                                                       ANY PHASE      ⬆ UPGRADE TUNNELING CLAWS: PASSIVE While this Unit has the Burrowed Status, it may
+                                                       perform the Move and Run actions without losing that Status. It may also move through other Units’ bases.
+
+
+                                                                        MOVEMENT PHASE                        ⬆ UPGRADE                         BURROW AMBUSH: PASSIVE When this Unit is
+                                                                GLIAL RECONSTITUTION: ACTIVE 1 CP This Unit                                     nominated to deploy from the Reserves, it may resolve
+                                                                gains BUFF SPEED (1), or BUFF SPEED (2) if the Unit is                          the PLACE (18) effect from the controlling player's
+                                                                ON CREEP.                                                                       Entry Edge. No model may be set Within 10" of any
+                                                                                                                                                Enemy model. This Unit's Activation ends.
+
+
+                                                                        ASSAULT PHASE                   ⬆ UPGRADE
+                                                                HYDRIODIC BILE: PASSIVE This Unit's Acid Saliva weapon gains Surge Type: Light, and S Dice: D3+1.
+
+
+
+
+            Ø 50MM
+
+
+            ⬆ UPGRADE                                                                                                                                                              © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                                                   © 2026 Archon v 1.04.26
+
+
+
+
+                                                                                                                                                          © 2026 Blizzard Entertainment, Inc.      © 2026 Archon         May 2026, v.1.0
+                                                                                                                                                                                        ZERG FACTION
+   UNIT CARDS
+
+
+
+
+            © 2026 Archon v 1.04.26                                                                                                                                       ARMOURED, BIOLOGICAL, GROUND
+            © 2026 Blizzard Entertainment, Inc.                                                                                                                           COMBAT TAGS:
+
+                                                                                                                                                                                                          ZERG
+
+
+
+
+                                                                -       1   D3+1          Light         4+     3       Ground     E                     CLAWS
+                                                      RNG Target RoA Hit Surge type S Dice Dmg Keyword                                                   NAME
+
+                                                                                                                                       COMBAT PHASE
+
+               IMPACT (3) 4+ effect.                                                              HEAL (2) effect.
+               this Unit completes a successful Charge, resolve the                               Activated, if it has the Burrowed Status, resolve the
+               DEVASTATING CHARGE: PASSIVE Immediately after                                      REGENERATION: PASSIVE When this Unit becomes
+
+                                                                -       1    -              -           3+     2       Ground     8               ACID SALIVA
+                                                      RNG Target RoA Hit Surge type S Dice Dmg Keyword                                                   NAME
+
+                                                                                                                                       ASSAULT PHASE
+
+                                                                                                                                           (Roachling) effect.
+             MOVEMENT PHASE ROACHLING INFESTATION: ACTIVE 2 BM Once Per Game. Resolve the SUMMON
+
+
+                                ANY PHASE BURROW: ACTIVE 2 BM If this Unit is Unengaged, it gains or loses the Burrowed Status.
+                                                  MODELS / SUPPLY
+                                                  1                 0              SIZE          HIT POINTS    EVADE     ARMOUR        SPEED
+
+                                              1-1 2-3                              2                4/7 3+ 5+ 4                                                  CORPSER (ROACH)
+                                      REACTION        PASSIVE       ACTIVE       1 CP     1 PE     1 BM
+fold here
+
+
+
+
+                                                                                                                                                                                                                                   fold here
+                                                                                                                                                              COMBAT ROLE:                      ARMY SLOT:
+
+            CORPSER (ROACH)
+                                                                                                                                1 BM     1 PE    1 CP   ACTIVE    PASSIVE     REACTION
+                                                                                                                                                             TANK                               CORE
+                                                                                                     CLOSE COMBAT                 RANGED COMBAT
+
+
+                                                       ANY PHASE      ⬆ UPGRADE TUNNELING CLAWS: PASSIVE While this Unit has the Burrowed Status, it may
+                                                       perform the Move and Run actions without losing that Status. It may also move through other Units’ bases.
+
+                                                                        MOVEMENT PHASE                        ⬆ UPGRADE                         BURROW AMBUSH: PASSIVE When this Unit is
+                                                                GLIAL RECONSTITUTION: ACTIVE 1 CP This Unit                                     nominated to deploy from the Reserves, it may resolve
+                                                                gains BUFF SPEED (1), or BUFF SPEED (2) if the Unit is                          the PLACE (18) effect from the controlling player's
+                                                                ON CREEP.                                                                       Entry Edge. No model may be set Within 10" of any
+                                                                                                                                                Enemy model. This Unit's Activation ends.
+
+
+                                                                        ASSAULT PHASE                   ⬆ UPGRADE
+                                                                HYDRIODIC BILE: PASSIVE This Unit's Acid Saliva weapon gains Surge Type: Light, and S Dice: D3+1.
+
+
+
+
+            Ø 50MM
+
+
+            ⬆ UPGRADE                                                                                                                                                              © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                                                   © 2026 Archon v 1.04.26
+
+
+
+
+                                                                                                                                                          © 2026 Blizzard Entertainment, Inc.      © 2026 Archon         May 2026, v.1.0
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                            ⬆ UPGRADE
+                                                                                                                                                                                                        Ø 32MM
+                                                                                  RANGED COMBAT                 CLOSE COMBAT
+                                                                 TANK
+                                             REACTION      PASSIVE     ACTIVE   1 CP   1 PE     1 BM
+                                                                                                                                                                                  ROACHLING
+                                                          COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                         fold here
+
+
+
+
+                                                                                                                         1 BM        1 PE     1 CP       ACTIVE       PASSIVE   REACTION
+                    ROACHLING                                                          4/7 6+ 6+ 1                                          1                1-3
+                                                                                        SPEED        ARMOUR     EVADE   HIT POINTS          SIZE                  0
+                                                                                                                                                          MODELS / SUPPLY
+                                                            ANY PHASE UNDERDEVELOPED CLAWS: PASSIVE This Unit cannot gain Burrowed Status.
+                                                                         COMBAT PHASE
+                                                                      NAME                      RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      CLAWS                      E     Ground      2    4+            -              -      1     -
+                    ZERG
+                  COMBAT TAGS:                                                                                                                                                     © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, LIGHT, GROUND                                                                                                                                        © 2026 Archon v 1.04.26
+                                                                                                                                                                                                            UNIT CARDS
+             ZERG FACTION
+                                                                                                                                                                              ZERG FACTION
+   UNIT CARDS
+
+
+
+
+            © 2026 Archon v 1.04.26                                                                                                                             ARMOURED, BIOLOGICAL, GROUND
+            © 2026 Blizzard Entertainment, Inc.                                                                                                                 COMBAT TAGS:
+
+                                                                                                                                                                                                ZERG
+
+
+
+
+                                                              -       1   -          -          4+     2       Ground     E               VILE CLAWS
+                                                       RNG Target RoA Hit Surge type S Dice Dmg Keyword                                        NAME
+
+                                                                                                                              COMBAT PHASE
+
+               HEAL (2) effect.                                                           IMPACT (1) 4+ effect.
+               Activated, if it has the Burrowed Status, resolve the                      this Unit completes a successful Charge, resolve the
+               REGENERATION: PASSIVE When this Unit becomes                               DEVASTATING CHARGE: PASSIVE Immediately after
+
+                                                              -       1   -          -          3+     4       Ground     8             ACID SALIVA
+                                                       RNG Target RoA Hit Surge type S Dice Dmg Keyword                                        NAME
+
+                                                                                                                              ASSAULT PHASE
+
+             Apply DEBUFF Hit (1) to each of that Unit's Ranged Weapons.
+             Enemy Unit Within 8" of this Unit declares a Ranged Attack.                   Engaged, it gains or loses the Burrowed Status.
+             DEBILITATING SALIVA: REACTION 1 BM Use when an                                ANY PHASE BURROW: ACTIVE 2 BM If this Unit is not
+                                                   MODELS / SUPPLY
+                                                   1              0           SIZE       HIT POINTS    EVADE     ARMOUR       SPEED
+
+                                                  1-1 2-3                     2             4/7 3+ 5+ 4                                                            VILE (ROACH)
+fold here
+
+
+
+
+                                                                                                                                                                                                                         fold here
+                                                                                                                                                    COMBAT ROLE:                      ARMY SLOT:
+
+            VILE (ROACH)                                                                     CLOSE COMBAT                 RANGED COMBAT
+                                                                                                                                                   TANK                               CORE
+
+                                                                MOVEMENT PHASE ⬆ UPGRADE TUNNELING CLAWS: PASSIVE While this Unit has the Burrowed
+                                                              Status, it may perform the Move and Run actions without losing that Status. It may also move through other
+                                                              Units’ bases.
+
+
+                                                                  MOVEMENT PHASE                      ⬆ UPGRADE                       BURROW AMBUSH: PASSIVE When this Unit is
+                                                              GLIAL RECONSTITUTION: ACTIVE 1 BM This Unit                             nominated to deploy from the Reserves, it may resolve
+                                                              gains BUFF SPEED (1), or BUFF SPEED (2) if the Unit is                  the PLACE (18) effect from the controlling player's
+                                                              ON CREEP.                                                               Entry Edge. No model may be set Within 10" of any
+                                                                                                                                      Enemy model. This Unit's Activation ends.
+
+
+                                                                  ASSAULT PHASE                 ⬆ UPGRADE
+                                                              HYDRIODIC BILE: PASSIVE This Unit's Acid Saliva weapon gains Surge Type: Light, and S Dice: D3+1.
+
+
+
+
+            Ø 50MM
+
+
+            ⬆ UPGRADE                                                                                                                                                    © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                                         © 2026 Archon v 1.04.26
+
+
+
+
+                                                                                                                                                © 2026 Blizzard Entertainment, Inc.      © 2026 Archon         May 2026, v.1.0
+                                                                                                                                                                                         ZERG FACTION
+   UNIT CARDS
+
+
+
+
+            © 2026 Archon v 1.04.26                                                                                                                                               BIOLOGICAL, LIGHT, GROUND
+            © 2026 Blizzard Entertainment, Inc.                                                                                                                                   COMBAT TAGS:
+
+                                                                                                                                                                                                           ZERG
+
+
+
+
+                                                                -       1    D3          Light           4+    2       Ground     E                      CLAWS
+                                                      RNG Target RoA Hit Surge type S Dice Dmg Keyword                                                    NAME
+
+                                                                                                                                       COMBAT PHASE
+
+                                                                                           add to the Unit’s Speed characteristic.
+               IMPACT (1) 5+ effect.                                                       Unit, roll 2D6 instead of D6 and use the higher result to
+               this Unit completes a successful Charge, resolve the                         1 BM When determining Charge Distance for this
+               DEVASTATING CHARGE: PASSIVE Immediately after                                  ASSAULT PHASE METABOLIC BOOST: ACTIVE
+
+                                                                        ANY PHASE SQUADRON: PASSIVE This Unit’s Horizontal Coherency is 4".
+                                           MODELS / SUPPLY
+                                 2                1                 0             SIZE          HIT POINTS     EVADE     ARMOUR        SPEED
+
+                         1-6 7-12 13-18                                           1                4/8 6+ 4+ 1                                                                         ZERGLING
+                                      REACTION        PASSIVE       ACTIVE    1 CP       1 PE     1 BM
+fold here
+
+
+
+
+                                                                                                                                                                                                                                    fold here
+                                                                                                                                                                COMBAT ROLE:                     ARMY SLOT:
+
+            ZERGLING
+                                                                                                                                1 BM     1 PE    1 CP    ACTIVE       PASSIVE   REACTION
+                                                                                                                                                                DAMAGE DEALER                    CORE
+                                                                                                    CLOSE COMBAT                  RANGED COMBAT
+
+
+                                                                     MOVEMENT PHASE                           ⬆ UPGRADE
+                                                                BURROW AMBUSH: PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE
+                                                                (18) effect from the controlling player's Entry Edge. No model may be set Within 10" of any Enemy model. This
+                                                                Unit's Activation ends.
+
+
+                                                                     COMBAT PHASE                    ⬆ UPGRADE
+                                                                    NAME                           RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                    SHREDDING CLAWS                  E       Ground      2   4+         Light,      D3      1     -
+                                                                     FOR CLAWS                                                       Armoured
+
+                                                                ADRENAL GLANDS: PASSIVE This Unit’s Claws and Shredding Claws weapons gain PRECISION (2).
+
+
+
+
+            Ø 32MM
+
+
+            ⬆ UPGRADE                                                                                                                                                               © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                                                    © 2026 Archon v 1.04.26
+
+
+
+
+                                                                                                                                                           © 2026 Blizzard Entertainment, Inc.      © 2026 Archon         May 2026, v.1.0
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.03.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                         ⬆ UPGRADE
+                                                                                                                                                                                                      Ø 32MM
+                                        ADRENAL GLANDS: PASSIVE This Unit’s Claws and Shredding Claws weapons gain PRECISION (2).
+                                                                                       Armoured                                                    FOR CLAWS
+                                                                     -    1      D3      Light,        4+   2     Ground       E        SHREDDING CLAWS
+                                                          RNG Target RoA Hit Surge type S Dice Dmg Keyword                                              NAME
+                                                                                                            ⬆ UPGRADE              COMBAT PHASE
+                   may be set Within 10" of any Enemy model. This Unit's Activation ends.
+                   deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model
+                     MOVEMENT PHASE ⬆ UPGRADE BURROW AMBUSH: PASSIVE When this Unit is nominated to
+                                                                                      RANGED COMBAT               CLOSE COMBAT
+                              ELITE              DAMAGE DEALER                                                                                            RAPTOR (ZERGLING)
+                           ARMY SLOT:                     COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                       fold here
+
+
+
+
+                    RAPTOR (ZERGLING)                                                    5/9 6+ 4+ 1                                       1            1-6 7-12 13-18
+                                                                                          SPEED        ARMOUR     EVADE    HIT POINTS      SIZE              0             1               2
+                                                                                                                                                                     MODELS / SUPPLY
+                                                            ANY PHASE SQUADRON: PASSIVE This Unit’s                                      RAPTOR STRAIN: PASSIVE This Unit can move through
+                                                            Horizontal Coherency is 4".                                                  IMPASSABLE TERRAIN of Size 4 or less and change
+                                                                                                                                         elevation without using ACCESS POINTS.
+                                                                        ASSAULT PHASE ADRENAL OVERLOAD:                                    METABOLIC BOOST: ACTIVE 1 BM When determining
+                                                                      ACTIVE 1 BM This Unit gains a +1 Modifier to all                     Charge Distance for this Unit, roll 2D6 instead of D6
+                                                                     IMPACT Hit Rolls.                                                     and use the higher result to add to the Unit’s Speed
+                                                                     DEVASTATING CHARGE: PASSIVE Immediately after                         characteristic.
+                                                                     this Unit completes a successful Charge, resolve the
+                                                                     IMPACT (1) 5+ effect.
+                                                                          COMBAT PHASE
+                                                                         NAME                     RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                         CLAWS                     E     Ground      2    4+       Light           D3    1       -
+                    ZERG
+                  COMBAT TAGS:                                                                                                                                                   © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, LIGHT, GROUND                                                                                                                                      © 2026 Archon v 1.03.26
+                                                                                                                                                                                                          UNIT CARDS
+             ZERG FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.03.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                   ⬆ UPGRADE
+                                                                                                                                                                                               Ø 32MM
+                   may be set Within 10" of any Enemy model. This Unit's Activation ends.
+                   deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model
+                     MOVEMENT PHASE ⬆ UPGRADE BURROW AMBUSH: PASSIVE When this Unit is nominated to
+                                                                                  RANGED COMBAT                CLOSE COMBAT
+                               CORE              DAMAGE DEALER
+                                                                                                                                                                         (ZERGLING)
+                           ARMY SLOT:                     COMBAT ROLE:
+                                                                                                                                                                         SWARMLING
+
+
+
+
+fold here
+                                                                                                                                                                                                                fold here
+
+
+
+
+                    SWARMLING                                                         4/8 6+ 5+ 1                                       1          1-6 7-18
+                    (ZERGLING)                                                         SPEED        ARMOUR     EVADE   HIT POINTS       SIZE           0            1
+                                                                                                                                                       MODELS / SUPPLY
+                                                            ANY PHASE SQUADRON: PASSIVE This Unit’s Horizontal Coherency is 4".
+                                                                       MOVEMENT PHASE ZERGLING RECONSTITUTION: ACTIVE 1 BM Resolve the RESPAWN (2) effect, or
+                                                                     RESPAWN (3) if the Unit is ON CREEP.
+                                                                        ASSAULT PHASE DEVASTATING CHARGE:                               METABOLIC BOOST: ACTIVE 1 BM When determining
+                                                                      PASSIVE Immediately after this Unit completes                     Charge Distance for this Unit, roll 2D6 instead of D6
+                                                                     a successful Charge, resolve the IMPACT (1) 5+ effect.             and use the higher result to add to the Unit’s Speed
+                                                                                                                                        characteristic.
+                                                                         COMBAT PHASE
+                                                                      NAME                     RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      CLAWS                     E     Ground      2    5+           -          -   1       -
+                    ZERG
+                  COMBAT TAGS:                                                                                                                                            © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, LIGHT, GROUND                                                                                                                               © 2026 Archon v 1.03.26
+                                                                                                                                                                                                   UNIT CARDS
+             ZERG FACTION
+                                                                                                      fold here                                                                                                                                    fold here
+
+
+
+
+                                         EVOLUTION CHAMBER                                                     EVOLUTION CHAMBER                                                      OVERSEER                                                              OVERSEER
+                                                                                          BM: 1                                                                 TACTICAL CARD                                                          BM: 1                                                                 TACTICAL CARD
+                                           ANY PHASE CARAPACE: REACTION                                                                                                                      MOVEMENT PHASE OVERSIGHT MODE:
+                                                                                                                                                                                                                                                                                                                                TACTICAL CARDS
+
+
+
+
+                                           Use before a Friendly Unit makes an Armour Roll.                                                                                              ACTIVE Set a Faction Indicator anywhere on the
+                                           That Unit gains TOUGH (1) for this roll.                                                                                                     battlefield. While Enemy Units are Within 6" of
+                                                                                                                                                                                        this Faction Indicator, they lose HIDDEN Status.
+                                                ASSAULT PHASE EXTENDED CLAWS:
+                                            ACTIVE The active Unit gains a +1 Modifier to all                                                                                                ASSAULT PHASE PNEUMATIZED
+                                           IMPACT Hit Rolls.                                                                                                                            CARAPACE: REACTION Use after a Friendly Unit
+                                                                                                                                                                                        rolls a D6 for Charge Distance. Roll an additional
+                                                                                                                                                                                        D6 and use the higher result to calculate the total
+                                                                                                                                                                                        Charge Distance.
+
+
+
+
+                                                                                                                                                                         ZERG                                                                               UNIQUE                                                    ZERG
+
+                                                                                                               SUPPLY: 1 × CORE                                                                                                                             SUPPLY: 1 × SUPPORT
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+                                         ZERG SWARM                                                            ZERG SWARM                                                             HATCHERY                                                              HATCHERY
+                                                                                          BM: 1                                                                 FACTION CARD                                                           BM: 1                                                                 TACTICAL CARD
+                                           ANY PHASE BROOD INSTINCT: REACTION                                                                                                              MOVEMENT PHASE LIE IN WAIT: ACTIVE
+                                           Use before a Friendly Unit makes an Evade Roll.                                                                                              The active, Unengaged Ground Unit gains the
+                                           Apply a +1 Modifier to that roll.                                                                                                            Burrowed Status.
+
+
+                                           ANY PHASE ZERG CREEP: PASSIVE During                                                                                                              MOVEMENT PHASE CREEP SPREAD:
+                                           Army Building, select exactly one Creep Card and                                                                                              ACTIVE Set a Creep Tumor token on the battlefield
+                                           add it to their Army List, paying its listed cost                                                                                            Within 6" (Line of Sight is not required) of either a
+                                           (if any).                                                                                                                                    Friendly Entry Edge or an existing Friendly Creep
+                                                                                                                                                                                        Tumor token.
+                                                MOVEMENT PHASE RAPID BURROWING:
+
+
+
+
+© 2026 Blizzard Entertainment, Inc.
+                                            ACTIVE Select one Friendly, Unengaged Ground
+                                           Zerg Unit on the battlefield. That Unit gains the
+                                           Burrowed Status, even if it has already been
+                                           Activated this Round.
+
+
+
+
+© 2026 Archon
+                                                                                                               UNIQUE                                                    ZERG                                                                                                                                         ZERG
+                                                                                                                                                                                                                                                                                                                                      ZERG FACTION
+
+
+
+
+                                                                                                               SUPPLY: 3 × CORE, 1 × ELITE, 1 × SUPPORT, 1 × AIR                                                                                            SUPPLY: 1 × SUPPORT
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+May 2026, v.1.0
+                                                                                                      fold here                                                                                                                                    fold here
+                                                                                                      fold here                                                                                                                                     fold here
+
+
+
+
+                                         MALIGNANT CREEP                                                       MALIGNANT CREEP                                                        HYDRALISK DEN                                                          HYDRALISK DEN
+                                                                                                                                                                  CREEP CARD                                                            BM: 1                                                                 TACTICAL CARD
+                                           ANY PHASE CREEP REMOVAL: PASSIVE If an
+                                                                                                                                                                                             ASSAULT PHASE MISSILE ATTACKS:
+                                           Enemy Unit ends a Move, Deploy, Run, Charge
+                                                                                                                                                                                                                                                                                                                                 TACTICAL CARDS
+
+
+
+
+                                           or Disengage action Within 1" of a Friendly                                                                                                   ACTIVE The active Unit’s first Ranged Weapon used
+                                           Creep Tumor token, remove that token from the                                                                                                gains PRECISION (1).
+                                           battlefield.
+
+                                           ANY PHASE LIVING GLOB OF TISSUE:
+                                            PASSIVE Creep Tumor tokens have STAY IN PLAY
+                                           and DISPLACEMENT.
+
+                                               ASSAULT PHASE MALEVOLENT
+                                           MATRIARCH: PASSIVE If the active Friendly Zerg
+                                           Unit declares a Charge action while ON CREEP, it
+                                           gains +1 Modifier to IMPACT Hit Rolls.
+                                                                                                                                                                         ZERG
+                                                                                                               UNIQUE                                 KERRIGAN'S SWARM                                                                                                                                                 ZERG
+
+                                                                                                               SUPPLY: -                                                                                                                                     SUPPLY: 2 × ELITE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon    v 1.03.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.03.26
+
+
+
+
+                                         KERRIGAN'S SWARM                                                      KERRIGAN'S SWARM                                                       OVERLORD                                                               OVERLORD
+                                                                                          BM: 1                                                                 FACTION CARD                                                            BM: 1                                                                 TACTICAL CARD
+                                           ANY PHASE WILD MUTATION: ACTIVE If the                                                                                                            MOVEMENT PHASE VENTRAL SACS:
+                                           active unit is ON CREEP, the unit gains                                                                                                       ACTIVE Set a Faction Indicator anywhere on
+                                           BUFF Speed (1) and its first used Weapon gains                                                                                               the battlefield more than 10" away from any
+                                           PRECISION (1).                                                                                                                               Enemy model. At the End of the Round, the
+                                                                                                                                                                                        controlling player may Deploy one Ground Unit
+                                                                                                                                                                                        from Reserves in base-to-base contact with this
+                                           ANY PHASE ZERG CREEP: PASSIVE During
+                                                                                                                                                                                        Faction Indicator.
+                                           Army Building, you must select exactly one Creep
+                                           Card and add it to your Army List, paying its listed
+                                           cost (if any).                                                                                                                                   ASSAULT PHASE EXCRETE CREEP: ACTIVE
+                                                                                                                                                                                        Set a Creep Tumor token on the battlefield Within
+                                                                                                                                                                                        6" (Line of Sight is not required) of either a Friendly
+
+
+
+
+© 2026 Blizzard Entertainment, Inc.
+                                                MOVEMENT PHASE OMEGA NETWORK:                                                                                                           Entry Edge or an existing Friendly Creep Tumor
+                                            ACTIVE If there is no Friendly Omega Worm on                                                                                                token.
+                                           the battlefield, set a Friendly Omega Worm Unit
+                                           anywhere on GROUND LEVEL of the battlefield,                                                                                  ZERG
+                                           more than 10" away from any Enemy model. This
+
+
+
+
+© 2026 Archon
+                                           Round, the Omega Worm is not eligible to use its                    UNIQUE                                 KERRIGAN'S SWARM                                                                                       UNIQUE                                                    ZERG
+                                           Special Abilities (excluding Structure).
+                                                                                                                                                                                                                                                                                                                                       ZERG FACTION
+
+
+
+
+                                                                                                               SUPPLY: 3 × CORE, 2 × ELITE, 1 × HERO                                                                                                         SUPPLY: 1 × CORE, 1 × ELITE, 1 × HERO
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon    v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+May 2026, v.1.0
+                                                                                                      fold here                                                                                                                                     fold here
+                                                                                                      fold here                                                                                                                                    fold here
+
+
+
+
+                                         ROACH WARREN                                                          ROACH WARREN                                                           LAIR                                                                  LAIR
+                                                                                          BM: 1                                                                 TACTICAL CARD                                                          BM: 1                                                                 TACTICAL CARD
+                                                ASSAULT PHASE NASTY SURPRISE:                                                                                                           ANY PHASE PREDATION: ACTIVE The active
+                                                                                                                                                                                                                                                                                                                                TACTICAL CARDS
+
+
+
+
+                                            ACTIVE The active Ground Unit loses the                                                                                                     Unit’s Close Combat Weapons gain INSTANT.
+                                           Burrowed Status.
+                                                                                                                                                                                             MOVEMENT PHASE CREEP SPREAD:
+                                                                                                                                                                                         ACTIVE Set a Creep Tumor token on the battlefield
+                                                                                                                                                                                        Within 6" (Line of Sight is not required) of either
+                                                                                                                                                                                        a Friendly Entry Edge or an existing Friendly Creep
+                                                                                                                                                                                        Tumor token.
+
+
+
+
+                                                                                                                                                                         ZERG                                                                               UNIQUE                                                    ZERG
+
+                                                                                                               SUPPLY: 1 × CORE                                                                                                                             SUPPLY: 1 × CORE, 1 × ELITE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+                                         SPAWNING POOL                                                         SPAWNING POOL                                                          ACCELERATING                                                          ACCELERATING
+                                         (SIX POOL)                                                            (SIX POOL)                                                             CREEP                                                                 CREEP
+                                                                                          BM: 2                                                                 TACTICAL CARD                                                                                                                                  CREEP CARD
+
+                                                MOVEMENT PHASE TIMING PUSH:                                                                                                             ANY PHASE SPEED ON CREEP: PASSIVE If the
+                                            ACTIVE The active Zergling Unit Deploys from                                                                                                active Friendly Zerg Unit is ON CREEP, increase its
+                                           any table edge that is not a Player’s Entry Edge.                                                                                            Speed characteristic by 1.
+                                           This action must end more than 10" away from any
+                                           Enemy model.
+                                                                                                                                                                                        ANY PHASE LIVING GLOB OF TISSUE:
+                                                                                                                                                                                         PASSIVE Creep Tumor tokens have STAY IN PLAY
+                                                COMBAT PHASE FERAL RAGE: ACTIVE                                                                                                         and DISPLACEMENT.
+                                           The active Unit’s first Close Combat Weapon used
+                                           gains PRECISION (2).
+                                                                                                                                                                                        ANY PHASE CREEP REMOVAL: PASSIVE If an
+                                                                                                                                                                                        Enemy Unit ends a Move, Deploy, Run, Charge
+
+
+
+
+© 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                                                        or Disengage action Within 1" of a Friendly
+                                                                                                                                                                                        Creep Tumor token, remove that token from the
+                                                                                                                                                                                        battlefield.
+
+
+
+
+© 2026 Archon
+                                                                                                               UNIQUE                                                    ZERG                                                                               UNIQUE                                                    ZERG
+                                                                                                                                                                                                                                                                                                                                      ZERG FACTION
+
+
+
+
+                                                                                                               SUPPLY: 2 × CORE                                                                                                                             SUPPLY: -
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.03.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.03.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+May 2026, v.1.0
+                                                                                                      fold here                                                                                                                                    fold here
+                                                                                                      fold here
+
+
+
+
+                                         SPAWNING POOL                                                         SPAWNING POOL
+                                                                                          BM: 1                                                                 TACTICAL CARD
+                                               COMBAT PHASE FERAL RAGE: ACTIVE
+                                                                                                                                                                                   TACTICAL CARDS
+
+
+
+
+                                           The active Unit’s first Close Combat Weapon used
+                                           gains PRECISION (2).
+
+
+
+
+                                                                                                                                                                         ZERG
+
+                                                                                                               SUPPLY: 1 × CORE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+© 2026 Blizzard Entertainment, Inc.
+© 2026 Archon
+                                                                                                                                                                                         ZERG FACTION
+
+
+
+
+May 2026, v.1.0
+                                                                                                      fold here
+                                                                                                                                                                       ZERG FACTION
+SCENARIO CARDS - MISSION & DEPLOYMENT
+
+                                                                                          fold here
+
+
+
+
+            SUPPLY DROP                                               6 +2
+                                                                     SUPPLY   PER ROUND
+                                                                                                   SUPPLY DROP                                                 4
+                                                                                                                                                              SUPPLY
+                                                                                                                                                                         +1
+                                                                                                                                                                        PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 4
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Deactivated.                                                    All Mission Markers are Deactivated.
+              START OF THE ROUND (1-4): Randomly determine one                                        START OF THE ROUND (2-4): Randomly determine one
+              Deactivated Mission Marker (1-4) and flip it to its                                     Deactivated Mission Marker (1,2,5) and flip it to its
+              Activated side.                                                                         Activated side.
+              START OF THE ROUND 5: Mission Marker 5 is
+              automatically Activated.                                                                SCORING CONDITIONS: Score VPs equal to
+                                                                                                      Enemy Supply destroyed this Round.
+              SCORING CONDITIONS: Score VPs equal to                                                  FROM THE START OF THE SECOND ROUND: For each
+              Enemy Supply destroyed this Round.                                                      activated Controlled Mission Marker, gain VPs equal to
+              FROM THE START OF THE FIRST ROUND: For each                                             the Game Round number in which that Mission Marker
+              activated Controlled Mission Marker, gain VPs equal to                                  was Activated and remove it.
+              the Game Round number in which that Mission Marker
+              was Activated and remove it.                                                            ADDITIONAL CONDITIONS:
+                                                                                                      SPECIAL WINNING CONDITIONS: The game ends
+                                                                                                      immediately if a Player leads by 8+ VPs.
+              ADDITIONAL CONDITIONS:
+              SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 12+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+
+            HOLD POSITION                                             6 +2
+                                                                     SUPPLY   PER ROUND
+                                                                                                   HOLD POSITION                                               3
+                                                                                                                                                              SUPPLY
+                                                                                                                                                                         +1
+                                                                                                                                                                        PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 5
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Activated.                                                      All Mission Markers are Activated.
+
+
+              SCORING CONDITIONS:                                                                     SCORING CONDITIONS:
+              Score VPs equal to Enemy Supply destroyed this Round.                                   Score VPs equal to Enemy Supply destroyed this Round.
+              FROM THE START OF THE SECOND ROUND:                                                     FROM THE START OF THE SECOND ROUND:
+              Gain 1 VP for each Controlled Mission Marker that is                                    Gain 1 VP for each Controlled Mission Marker that is
+              Neutral or associated with your colour.                                                 Neutral or associated with your colour.
+              Gain 2 VPs for each Controlled Mission Marker associated                                Gain 2 VPs for each Controlled Mission Marker associated
+              with the Opponent colour.                                                               with the Opponent colour.
+
+
+              ADDITIONAL CONDITIONS:                                                                  ADDITIONAL CONDITIONS:
+              SPECIAL WINNING CONDITIONS: The game ends                                               SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 10+ VPs.                                               immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+                                                                                          fold here
+                                                                                                                                       © 2026 Blizzard Entertainment, Inc.     © 2026 Archon   May 2026, v.1.0
+                                                                                                                                                                       ZERG FACTION
+SCENARIO CARDS - MISSION & DEPLOYMENT
+
+                                                                                          fold here
+
+
+
+
+            FRONTLINES                                                6 +2
+                                                                     SUPPLY   PER ROUND
+                                                                                                   FRONTLINES                                                  3
+                                                                                                                                                              SUPPLY
+                                                                                                                                                                         +1
+                                                                                                                                                                        PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 5
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Activated.                                                      All Mission Markers are Activated.
+
+
+              SCORING CONDITIONS:                                                                     SCORING CONDITIONS:
+              Score VPs equal to Enemy Supply destroyed this Round.                                   Score VPs equal to Enemy Supply destroyed this Round.
+              FROM THE START OF THE SECOND ROUND:                                                     FROM THE START OF THE SECOND ROUND:
+              Gain 1 VP for each Controlled Mission Marker.                                           Gain 1 VP for each Controlled Mission Marker.
+              Gain an additional 2 VPs for a Marker if you gained                                     Gain an additional 2 VPs for a Marker if you gained
+              Control of it from the Opponent this Round.                                             Control of it from the Opponent this Round.
+
+
+              ADDITIONAL CONDITIONS:                                                                  ADDITIONAL CONDITIONS:
+              SPECIAL WINNING CONDITIONS: The game ends                                               SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 10+ VPs.                                               immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+
+            GATHER THE                                                6 +2                         GATHER THE                                                  3         +1
+            RESOURCES                                                SUPPLY   PER ROUND            RESOURCES                                                  SUPPLY    PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 5
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Activated.                                                      All Mission Markers are Activated.
+
+
+              SCORING CONDITIONS:                                                                     SCORING CONDITIONS:
+              Score VPs equal to Enemy Supply destroyed this Round.                                   Score VPs equal to Enemy Supply destroyed this Round.
+              FROM THE START OF THE SECOND ROUND:                                                     FROM THE START OF THE SECOND ROUND:
+              Gain 2 VPs for each Controlled Mission Marker associated                                Gain 2 VPs for each Controlled Mission Marker associated
+              with the Opponent colour.                                                               with the Opponent colour.
+
+
+              ADDITIONAL CONDITIONS:                                                                  ADDITIONAL CONDITIONS:
+                 ASSAULT PHASE: If an Unengaged Unit is                                                  ASSAULT PHASE: If an Unengaged Unit is
+              Within 3" of a Controlled Neutral Mission Marker or                                     Within 3" of a Controlled Neutral Mission Marker or
+              associated with the Opponent, this unit may perform the                                 associated with the Opponent, this unit may perform the
+              Gather Action instead of a standard action.                                             Gather Action instead of a standard action.
+              GATHER ACTION: Gain 1 VP.                                                               GATHER ACTION: Gain 1 VP.
+              SPECIAL WINNING CONDITIONS: The game ends                                               SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 10+ VPs.                                               immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+                                                                                          fold here
+                                                                                                                                       © 2026 Blizzard Entertainment, Inc.     © 2026 Archon   May 2026, v.1.0
+                                                                                                                                                                                                                    ZERG FACTION
+            SCENARIO CARDS - MISSION & DEPLOYMENT
+                                                                                                                              fold here
+
+
+
+                                         DIVIDE AND                                                      8 +2                          DIVIDE AND                                                           4             +1
+                                         CONQUER                                                        SUPPLY    PER ROUND            CONQUER                                                           SUPPLY          PER ROUND
+
+                                                                                                    GAME LENGTH: 4                                                                                     GAME LENGTH: 4
+
+                                           MISSION PARAMETERS:                                                                            MISSION PARAMETERS:
+                                           All Mission Markers are Activated.                                                             All Mission Markers are Activated.
+                                           Split the Battlefield in four quarters as shown on the                                         Split the Battlefield in four quarters as shown on the
+                                           Deployment Card.                                                                               Deployment Card.
+
+
+                                            SCORING CONDITIONS:                                                                           SCORING CONDITIONS:
+                                           Score VPs equal to Enemy Supply destroyed this Round.                                          Score VPs equal to Enemy Supply destroyed this Round.
+                                           FROM THE START OF THE FIRST ROUND:                                                             FROM THE START OF THE FIRST ROUND:
+                                           Calculate Total Current Supply in each battlefield quarter.                                    Calculate Total Current Supply in each battlefield quarter.
+                                           Gain 1 VP for each quarter where your Total Current                                            Gain 1 VP for each quarter where your Total Current
+                                           Supply is higher than the Opponent's.                                                          Supply is higher than the Opponent's.
+                                           Only Units Wholly Within a quarter contribute their                                            Only Units Wholly Within a quarter contribute their
+                                           Supply to this check.                                                                          Supply to this check.
+                                           If a Unit controls a Mission Marker, that Unit is worth 1                                      If a Unit controls a Mission Marker, that Unit is worth 1
+                                           extra Supply for controlling quarters.                                                         extra Supply for controlling quarters.
+                                           Gain 2 VP for Controlling Mission Marker 5.                                                    Gain 2 VP for Controlling Mission Marker 5.
+
+                                           ADDITIONAL CONDITIONS:                                                                         ADDITIONAL CONDITIONS:
+                                           SPECIAL WINNING CONDITIONS: The game ends                                                      SPECIAL WINNING CONDITIONS: The game ends
+                                           immediately if a Player leads by 10+ VPs.                                                      immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                                                           STANDARD ENGAGEMENT                                                                                          SKIRMISH LEVEL
+                                       © 2026 Blizzard Entertainment, Inc. © 2026 Archon                          v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                                  v 1.04.26
+
+
+
+                                                                                                                              fold here
+                                                        v 1.03.26               © 2026 Blizzard Entertainment, Inc. © 2026 Archon                                               v 1.03.26                     © 2026 Blizzard Entertainment, Inc. © 2026 Archon
+
+                SKIRMISH LEVEL                                                                                                         SKIRMISH LEVEL
+                                                                                                                                                                                12"
+
+                                                  RED                6"                                                                                                  BLUE               6"                   6"
+                                                                                                                                                                                                                     1
+                                                                                                                                                                12"                                                       6"
+                                                                                      18"
+
+                                                                                                                                                                         6"
+                                                                                            6"
+                                                    2                5                 1                                                                                                         5
+                                               6"
+                                                                                                                                                                                                                         6"
+
+                                                    18"                                                                                                                                                                         12"
+                                                                                                                                                                      6"
+                                                                                                                                                                              2
+                                                                     6"           BLUE                                                                                          6"                     6"           RED
+                                                                                                                                                                                                                12"
+
+                              36×36˝                                   ABANDONED CAMP                                                                36×36˝                                                         AGRIA VALLEY
+fold here
+
+
+
+
+                                                                                                                                                                                                                                                                   fold here
+
+
+
+
+                GAUNTLET                                                                          54×36˝                               TYPHOON                                                                                  54×36˝
+
+                                                                                                                                                                                                                         24"
+
+                                                                     6"                           RED                                                            6"                               6"                                RED
+                                                                                                                                                                2                 12"
+                                               12"                               12"                                                                      6"
+                                                                                                                                                                                                                                             18"
+                                       12"      1                                 3           18"                                                                  18"            1
+
+                                                                    5                                                                                      6"
+                                                                                                                                                                                                 5
+                                                                                                                                                                                                                                        6"
+                                            18"           4                                 2     12"                                                                                                           4             18"
+                                                          12"                               12"                                                   18"
+                                                                                                                                                                                                                                        6"
+                                                                                                                                                                                                               12"                  3
+                                     BLUE                            6"                                                                                    BLUE                                  6"                            6"
+                                                                                                                                                                      24"
+                                                                                           STANDARD ENGAGEMENT                                                                                                           STANDARD ENGAGEMENT
+             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                v 1.03.26                                             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                       v 1.03.26
+
+
+
+                                                                                                                                                                              © 2026 Blizzard Entertainment, Inc.              © 2026 Archon         May 2026, v.1.0
+                                                                                                                                                                                                                     ZERG FACTION
+            SCENARIO CARDS - MISSION & DEPLOYMENT
+
+
+                                                         v 1.03.26                     © 2026 Blizzard Entertainment, Inc. © 2026 Archon                                                v 1.03.26              © 2026 Blizzard Entertainment, Inc. © 2026 Archon
+
+                SKIRMISH LEVEL                                                                                                                     SKIRMISH LEVEL
+                                                      12"                                                                                                                                           12"
+
+                                                  BLUE               6"                                                                                                                         6" RED            6"
+                                         12"                                                                                                                                                                          1
+                                                                                                                                                                                                                            6"
+                                                                          18"
+
+                                                  6"                                                                                                                          BLUE
+                                                                                                  6"
+                                                       2                  5                  1                                                                          12"      6"                  5                    6"     12"
+                                                 6"
+                                                                                                 6"                                                                                                                      BLUE
+
+                                                                                                                                                                              6"
+                                                                                                        12"                                                                           2
+                                                                                6"          RED                                                                                         6"           RED 6"
+
+                                                                                            12"                                                                                                     12"
+
+                              36×36˝                                                                    DIRT SIDE                                            36×36˝                                                              FRONTIER
+fold here
+
+
+
+
+                                                                                                                                                                                                                                                                    fold here
+                ACROPOLIS                                                                               54×36˝                                     PROVING GROUNDS                                                                54×36˝
+
+                                           18"                                                        18"                                                                                                                              6"
+
+                            6"      RED                                    6"                          BLUE          6"                                                                 6"               BLUE
+                                               12"                                               12"                                                                          12"                   12"                   12"
+                                         12"     1                                                2     12"                                                        12"         1                     5                    3            12"
+
+                                                                          5
+
+                                         12"     4                                                3     12"                                                                18"            4                      2             18"
+                                                 12"                                             12"
+                                                                                                                                                                                          12"                   12"
+                            6"      BLUE                                                                    RED      6"                                          RED                                                                 RED
+                                           18"                                                                                                                     6"
+                                                                                                 STANDARD ENGAGEMENT                                                                                                      STANDARD ENGAGEMENT
+             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                       v 1.03.26                                              © 2026 Blizzard Entertainment, Inc. © 2026 Archon                v 1.03.26
+
+                                                         v 1.03.26                     © 2026 Blizzard Entertainment, Inc. © 2026 Archon
+
+                SKIRMISH LEVEL
+                                                           18"
+
+                                                  RED                6"                   6"
+                                                                                             1
+                                                                                                  6"
+
+
+
+                                                       12"       5
+
+
+
+                                                                                                  6"
+                                                                                             2
+                                                  BLUE               6"                   6"
+                                                           18"
+
+
+                              36×36˝                                                             CHAR PLAINS
+fold here
+
+
+
+
+                                                                                                                                           fold here
+
+
+
+
+                BREACH                                                                                  54×36˝
+
+                                                                                                              6"
+
+                                                              6"                      6"
+                                            18"              1                          2             18"
+
+
+
+
+                                  BLUE                                    5                                 RED
+
+
+                                            18"              4                          3             18"
+                                                              6"                      6"
+                                    6"
+                                                                                                 STANDARD ENGAGEMENT
+             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                       v 1.03.26
+
+
+                                                                                                                                                                                      © 2026 Blizzard Entertainment, Inc.        © 2026 Archon        May 2026, v.1.0
+

@@ -1,0 +1,903 @@
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                              ⬆ UPGRADE
+                                                                                                                                                                                                             Ø 40MM
+                                                                                                                                                    FOR STRIKE
+                                                   PIERCE Light (2)      1      D3       Light         4+   1     Ground       E               GLAIVE STRIKE
+                                                          RNG Target RoA Hit Surge type S Dice Dmg Keyword                                                  NAME
+                                                                                                            ⬆ UPGRADE              COMBAT PHASE
+                              Ranged weapon gains ANTI-EVADE (2).                           Cannon gains BUFF RoA (1).
+                              GUIDANCE: PASSIVE This Unit's Glaive Cannon                   RESONATING GLAVES: ACTIVE 1 PE This Unit's Glaive
+                                                                                                            ⬆ UPGRADE              ASSAULT PHASE
+                                                                                     RANGED COMBAT                CLOSE COMBAT
+                               CORE               DAMAGE DEALER
+                                             REACTION      PASSIVE     ACTIVE     1 CP   1 PE     1 BM
+                                                                                                                                                                                                     ADEPT
+                           ARMY SLOT:                        COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                              fold here
+
+
+
+
+                                                                                                                            1 BM        1 PE    1 CP       ACTIVE         PASSIVE   REACTION
+                    ADEPT                                                        2 5/8 5+ 5+ 3                                              2                1-2 3-4
+                                                                                SHIELD    SPEED        ARMOUR     EVADE    HIT POINTS       SIZE                  0                 1
+                                                                                                                                                                  MODELS / SUPPLY
+                                                            ANY PHASE PSIONIC PRESENCE: PASSIVE All Weapons of Friendly Units targeting an Enemy Unit Within 4" of this
+                                                             Unit’s Shade token gain PRECISION (1).
+                                                                        MOVEMENT PHASE PSIONIC TRANSFER: ACTIVE 1 PE Set a Shade token Wholly Within 12" of any
+                                                                     model in this Unit. At the End of the Round, the controlling player may set all models of this Unit in Coherency,
+                                                                     treating the Shade token as the Leading Model. The Shade token has DISPLACEMENT.
+                                                                        ASSAULT PHASE
+                                                                      NAME                        RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      GLAIVE CANNON                8        All      2    3+       Light           D3+1       1       ANTI-EVADE (1)
+                                                                        COMBAT PHASE
+                                                                      NAME                        RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      STRIKE                       E     Ground      1    4+            -              -      1       -
+                    PROTOSS
+                  COMBAT TAGS:                                                                                                                                                          © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, LIGHT, GROUND                                                                                                                                             © 2026 Archon v 1.04.26
+                                                                                                                                                                                                                 UNIT CARDS
+             PROTOSS FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                           ⬆ UPGRADE
+                                                                                                                                                                                                       Ø 40MM
+                                                                                     RANGED COMBAT                CLOSE COMBAT
+                              HERO                                TANK
+                                             REACTION      PASSIVE     ACTIVE     1 CP   1 PE     1 BM
+                                                                                                                                                                                         ARTANIS
+                           ARMY SLOT:                        COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                        fold here
+
+
+
+
+                                                                                                                           1 BM        1 PE    1 CP     ACTIVE       PASSIVE   REACTION
+                    ARTANIS                                                      4         7           4+ 5+ 8                            2                 1-1
+                                                                                SHIELD    SPEED        ARMOUR     EVADE   HIT POINTS      SIZE                   1
+                                                                                                                                                         MODELS / SUPPLY
+                  UNIQUE                                    ANY PHASE COMMANDER: PASSIVE Treat this Unit’s Supply characteristic as increased by 1 for Controlling and
+                                                             Contesting Mission Markers, completing objectives, and resolving Disengage checks.
+                                                                        MOVEMENT PHASE PHASE PRISM: PASSIVE When Artanis is nominated to deploy from Reserves, it
+                                                                     may resolve the PLACE (0) effect from another Friendly Unit. That Friendly Unit is removed from the battlefield and
+                                                                     returned to Reserves. Artanis' Activation ends.
+                                                                        ASSAULT PHASE LIGHTNING DASH:                                         HIERARCH’S STAND: REACTION 1 PE When another
+                                                                      REACTION 1 PE After this Unit resolves a successful                     Friendly Unit Within 8" is declared as the target of a
+                                                                     Charge action, it may declare a second Charge action                     Ranged Attack and this Unit is a valid target, redirect the
+                                                                     against a different Enemy Unit, ignoring the restriction                 attack to this Unit. This Unit is eligible to make an Evade
+                                                                     on Charging while Engaged. The Devastating Charge                        Roll against the redirected attack. This Special Ability
+                                                                     ability does not trigger a second time.                                  remains active until the End of the current Activation.
+                                                                     DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT
+                                                                     (6) 4+ effect.
+                                                                        COMBAT PHASE
+                                                                      NAME                        RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      TWILIGHT BLADES              E     Ground      2    2+ Armoured              D3      3     -
+                                                                      STRIKE
+                                                                      TWILIGHT BLADES              E     Ground      6    2+      Light           D3+1     1     -
+                    PROTOSS                                           SWEEP
+                  COMBAT TAGS:                                                                                                                                                    © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, PSIONIC, GROUND                                                                                                                                     © 2026 Archon v 1.04.26
+                                                                                                                                                                                                           UNIT CARDS
+             PROTOSS FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                          ⬆ UPGRADE
+                                                                                                                                                                                                         Ø 40MM
+                                                                                     RANGED COMBAT                CLOSE COMBAT
+                              ELITE               DAMAGE DEALER
+                                                                                                                                                                       (ZEALOT)
+                           ARMY SLOT:        REACTION      PASSIVE     ACTIVE
+                                                             COMBAT ROLE:         1 CP   1 PE     1 BM
+                                                                                                                                                                       PRAETOR GUARD
+
+
+
+
+fold here
+                                                                                                                                                                                                                          fold here
+
+
+
+
+                                                                                                                           1 BM        1 PE    1 CP    ACTIVE         PASSIVE   REACTION
+                    PRAETOR GUARD                                                3 4/7 5+ 5+ 4                                            2              1-1 2-3
+                    (ZEALOT)                                                    SHIELD    SPEED        ARMOUR     EVADE   HIT POINTS      SIZE                1                 2
+                                                                                                                                                              MODELS / SUPPLY
+                  UNIQUE                                    ANY PHASE SHIELD OVERCHARGE: PASSIVE This Unit gains TOUGH (2) on the first Armour Roll each Round.
+                                                                       MOVEMENT PHASE LEG ENHANCEMENTS: ACTIVE 1 PE This Unit performs a 2" Move action. This does
+                                                                     not count towards its action limit.
+                                                                        ASSAULT PHASE CHARGE: ACTIVE 1 PE                                     DEVASTATING CHARGE: PASSIVE Immediately after
+                                                                     When determining Charge Distance for this Unit, roll                     this Unit completes a successful Charge, resolve the
+                                                                     2D6 instead of D6 and use the higher result to add to                    IMPACT (3) 4+ effect.
+                                                                     the Unit’s Speed characteristic.
+                                                                        COMBAT PHASE
+                                                                      NAME                        RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      PSI BLADES                   E     Ground      4    3+      Light           D3      1       -
+                                                                     TITAN KILLERS: PASSIVE When this Unit makes a Close                      PRECOGNITION: PASSIVE This Unit is eligible to make
+                                                                     Combat Attack, and the target is Size 3 or larger, the                   an Evade roll against all attacks targeting it.
+                                                                     weapon’s Damage characteristic is treated as 2.
+                    PROTOSS                    KHALAI
+                  COMBAT TAGS:                                                                                                                                                      © 2026 Blizzard Entertainment, Inc.
+                  BIOLOGICAL, LIGHT, GROUND                                                                                                                                         © 2026 Archon v 1.04.26
+                                                                                                                                                                                                             UNIT CARDS
+             PROTOSS FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                    ⬆ UPGRADE
+                                                                                                                                                                                            Ø 80MM
+                                                                                     RANGED COMBAT            CLOSE COMBAT
+                                                          TACTICIAN
+                                             REACTION      PASSIVE     ACTIVE     1 CP   1 PE     1 BM
+                                                                                                                                                                                    PYLON
+                                                             COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                             fold here
+
+
+
+
+                                                                                                                       1 BM        1 PE   1 CP   ACTIVE   PASSIVE   REACTION
+                   PYLON                                                         2         -         5+        -        8             3              1-1
+                                                                                SHIELD    SPEED      ARMOUR   EVADE   HIT POINTS      SIZE                0
+                                                                                                                                                  MODELS / SUPPLY
+                                                            ANY PHASE KHALAI INGENUITY: PASSIVE Once per                             STRUCTURE: PASSIVE This Unit cannot be Activated
+                                                            Round, when a Friendly Unit Within 4" of this Pylon uses                in any Phase and cannot perform actions. Additionally,
+                                                            a Special Ability that costs Psionic Energy, that ability’s             its Current Supply Value is treated as 0, and it can
+                                                            PE cost is reduced by 1.                                                never Control or Contest Mission Markers, ignoring the
+                                                                                                                                    standard Zero Supply Exception. This Unit cannot be
+                                                                                                                                    a target of an ability, unless stated otherwise.
+                                                                        MOVEMENT PHASE WARP CONDUIT: PASSIVE Once per Round, the controlling player may deploy
+                                                                     a Ground Unit from Reserves using this Pylon base as the Entry Edge. This Unit's Activation ends.
+                    PROTOSS                     KHALAI
+                  COMBAT TAGS:                                                                                                                                         © 2026 Blizzard Entertainment, Inc.
+                  ARMORED, GROUND                                                                                                                                      © 2026 Archon v 1.04.26
+                                                                                                                                                                                                UNIT CARDS
+             PROTOSS FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.04.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                             ⬆ UPGRADE
+                                                                                                                                                                                                            Ø 50MM
+                            Within 4", the targeted Friendly Unit is eligible to make an Evade Roll against that attack.
+                            HALLUCINATION: REACTION 0 PE When an Enemy Unit declares a Ranged Attack against a Friendly Unit
+                                                                                                           ⬆ UPGRADE              ASSAULT PHASE
+                   or lower cannot move across Force Fields. Models of Size 3 or more can move over it, and it's then removed.
+                   SOLID-FIELD PROJECTORS: ACTIVE 1 PE Set a Force Field token Within 8" in an unoccupied space. Units of Size 2
+                                                                                                         ⬆ UPGRADE             MOVEMENT PHASE
+                                                                                     RANGED COMBAT                CLOSE COMBAT
+                       SUPPORT                            LIFESAVER
+                                             REACTION      PASSIVE     ACTIVE     1 CP   1 PE     1 BM
+                                                                                                                                                                                                SENTRY
+                           ARMY SLOT:                        COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                             fold here
+
+
+
+
+                                                                                                                           1 BM        1 PE    1 CP       ACTIVE         PASSIVE   REACTION
+                    SENTRY                                                       2 4/7 5+ 6+ 4                                                1             1-1 2-2
+                                                                                SHIELD    SPEED        ARMOUR     EVADE   HIT POINTS       SIZE                  0                 1
+                                                                                                                                                                 MODELS / SUPPLY
+                                                            ANY PHASE RESTORATION: REACTION 1 PE Use when a Friendly Unit Within 4" receives a DEBUFF. Remove
+                                                             all DEBUFFS from it.
+                                                                       MOVEMENT PHASE GUARDIAN SHIELD:                                        FORCE FIELD: ACTIVE 1 PE Set a Force Field token
+                                                                      ACTIVE 1 PE All Ranged Attacks targeting a Friendly                     Within 8" in an unoccupied space. Units of Size 2 or
+                                                                     Unit Within 4" (Line of Sight is not required) are made                  lower cannot move across Force Fields. Models of Size
+                                                                     with 1 fewer die in the Attack Pool.                                     3 or more can move over it, and it's then removed.
+                                                                        ASSAULT PHASE
+                                                                      NAME                        RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      DISRUPTION BEAM              8       All       2    2+           -              -      1       INSTANT
+                                                                        COMBAT PHASE
+                                                                      NAME                        RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      BEAM                         E     Ground      2    3+           -              -      1       -
+                    PROTOSS
+                  COMBAT TAGS: LIGHT,                                                                                                                                                  © 2026 Blizzard Entertainment, Inc.
+                  MECHANICAL, PSIONIC, GROUND                                                                                                                                          © 2026 Archon v 1.04.26
+                                                                                                                                                                                                                UNIT CARDS
+             PROTOSS FACTION
+May 2026, v.1.0    © 2026 Archon          © 2026 Blizzard Entertainment, Inc.
+                   © 2026 Archon v 1.03.26
+                   © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                       ⬆ UPGRADE
+                                                                                                                                                                                                  Ø 80MM
+                    this Phase, its Particle Disruptors gain INSTANT for that attack.
+                    FURY OF THE NERAZIM: PASSIVE When this Unit attacks an Enemy Unit that has already been Activated during
+                                                                                                          ⬆ UPGRADE              ASSAULT PHASE
+                                                  PATH OF SHADOWS: ACTIVE 1 PE This Unit gains HIDDEN Status until it performs another action.
+                                                                                                                              ⬆ UPGRADE               ANY PHASE
+                                                                                     RANGED COMBAT               CLOSE COMBAT
+                              ELITE               DAMAGE DEALER                                                                                                                    STALKER
+                           ARMY SLOT:                        COMBAT ROLE:
+
+
+
+
+fold here
+                                                                                                                                                                                                                   fold here
+
+
+
+
+                   STALKER                                                       3 4/8 4+ 6+ 6                                            3           1-1 2-2
+                                                                                SHIELD   SPEED        ARMOUR     EVADE   HIT POINTS       SIZE             1            2
+                                                                                                                                                           MODELS / SUPPLY
+                                                            ANY PHASE SQUADRON: PASSIVE This Unit’s Horizontal Coherency is 4".
+                                                                       MOVEMENT PHASE BLINK: ACTIVE 1 PE Resolve the PLACE (6) effect. Models set by this effect cannot
+                                                                     be set up Within the Engagement Range of any Enemy Unit.
+                                                                        ASSAULT PHASE
+                                                                      NAME                       RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      PARTICLE                   12       All       4    3+ Armoured             D3    2       -
+                                                                      DISRUPTORS
+                                                                        COMBAT PHASE
+                                                                      NAME                       RNG Target RoA Hit Surge type S Dice Dmg Keyword
+                                                                      STOMP                       E     Ground      2    5+           -          -     1       -
+                    PROTOSS
+                  COMBAT TAGS:                                                                                                                                               © 2026 Blizzard Entertainment, Inc.
+                  ARMOURED, MECHANICAL, GROUND                                                                                                                               © 2026 Archon v 1.03.26
+                                                                                                                                                                                                      UNIT CARDS
+             PROTOSS FACTION
+                                                                                                                                                                           PROTOSS FACTION
+   UNIT CARDS
+
+
+
+
+            © 2026 Archon v 1.04.26                                                                                                                                           BIOLOGICAL, LIGHT, GROUND
+            © 2026 Blizzard Entertainment, Inc.                                                                                                                               COMBAT TAGS:
+
+                                                                                                                                                                                                 PROTOSS
+
+
+
+
+                                                                 -       1    D3          Light      3+     4       Ground     E               PSI BLADES
+                                                       RNG Target RoA Hit Surge type S Dice Dmg Keyword                                                NAME
+
+                                                                                                                                    COMBAT PHASE
+
+                                                                                            Unit’s Speed characteristic.
+               IMPACT (3) 4+ effect.                                                        instead of D6 and use the higher result to add to the
+               this Unit completes a successful Charge, resolve the                         determining Charge Distance for this Unit, roll 2D6
+               DEVASTATING CHARGE: PASSIVE Immediately after                                   ASSAULT PHASE CHARGE: ACTIVE 1 PE When
+                                                   MODELS / SUPPLY
+                                                   2                 1             SIZE       HIT POINTS    EVADE     ARMOUR        SPEED     SHIELD
+
+                                                  1-1 2-3                          2              3 4/7 5+ 5+ 4                                                                            ZEALOT
+                                      REACTION         PASSIVE       ACTIVE    1 CP   1 PE        1 BM
+fold here
+
+
+
+
+                                                                                                                                                                                                                                fold here
+                                                                                                                                                         COMBAT ROLE:                        ARMY SLOT:
+
+            ZEALOT
+                                                                                                                             1 BM     1 PE   1 CP   ACTIVE     PASSIVE     REACTION
+                                                                                                                                                         DAMAGE DEALER                       CORE
+                                                                                                   CLOSE COMBAT                RANGED COMBAT
+
+
+                                                        ANY PHASE              ⬆ UPGRADE
+                                                        MY LIFE FOR AIUR: PASSIVE When this Unit resolves IMPACT, each eligible model generates 1 additional IMPACT die.
+
+                                                                     MOVEMENT PHASE                        ⬆ UPGRADE
+                                                                 LEG ENHANCEMENTS: ACTIVE 1 PE This Unit performs a 2" Move action. This does not count towards its action
+                                                                 limit.
+
+
+                                                                         ASSAULT PHASE               ⬆ UPGRADE
+                                                                 ZEALOUS ROUND: REACTION 0 PE When this Unit is not Activated and receives Damage, the controlling player
+                                                                 may count this Unit as Activated in this Phase (flip its Activation Marker) to reduce the Total Damage by 2.
+
+
+                                                                         COMBAT PHASE               ⬆ UPGRADE
+                                                                 WE STAND AS ONE: PASSIVE When this Unit makes a Close Combat Attack, if the target is Engaged with at least
+                                                                 1 other Friendly Unit, this Unit's Close Combat Weapon gains PRECISION (2).
+
+
+
+
+            Ø 40MM
+
+
+            ⬆ UPGRADE                                                                                                                                                           © 2026 Blizzard Entertainment, Inc.
+                                                                                                                                                                                © 2026 Archon v 1.04.26
+
+
+
+
+                                                                                                                                                       © 2026 Blizzard Entertainment, Inc.      © 2026 Archon         May 2026, v.1.0
+                                                                                                       fold here                                                                                                                                  fold here
+
+
+
+
+                                         KHALAI                                                                 KHALAI                                                                GATE                                                                 GATE
+                                                                                                                                                                                      CHRONOBOOSTED                                                        CHRONOBOOSTED
+                                                                                            PE: 1                                                                FACTION CARD                                                          PE: 1                                                                TACTICAL CARD
+                                                 MOVEMENT PHASE PYLON WARP-IN:                                                                                                               MOVEMENT PHASE ZEALOUS CHARGE:
+                                                                                                                                                                                                                                                                                                                              TACTICAL CARDS
+
+
+
+
+                                              ACTIVE If there is no Friendly Pylon on the                                                                                                ACTIVE The active Unit gains BUFF Speed (2).
+                                           battlefield, set a Friendly Pylon Unit anywhere on
+                                           the GROUND LEVEL of the battlefield more than 10"
+                                                                                                                                                                                             COMBAT PHASE QUICK STRIKES:
+                                           away from any Enemy model. This Round, the Pylon
+                                           is not eligible to use its Special Abilities (excluding                                                                                       ACTIVE The active Unit’s first Close Combat
+                                           Structure).                                                                                                                                  Weapon used gains PRECISION (2).
+
+
+                                               MOVEMENT PHASE BOUND BY THE
+                                           KHALA: ACTIVE At the end of the active Unit’s
+                                           Activation, select one other Friendly Unit eligible to
+                                           Activate in the current Phase. Immediately Activate
+                                           that Unit.
+
+                                                                                                                                                                     PROTOSS
+                                                                                                                UNIQUE                                                 KHALAI                                                                              UNIQUE                                                PROTOSS
+
+                                                                                                                SUPPLY: 3 × CORE , 2 × ELITE, 1 × HERO                                                                                                     SUPPLY: 1 × CORE, 1 × ELITE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon     v1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v1.03.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v1.03.26
+
+
+
+
+                                         WARP PRISM                                                             WARP PRISM                                                            GATEWAY                                                              GATEWAY
+                                                                                            PE: 1                                                                TACTICAL CARD                                                         PE: 1                                                                TACTICAL CARD
+                                               MOVEMENT PHASE PHASE: ACTIVE The                                                                                                             COMBAT PHASE QUICK STRIKES: ACTIVE
+                                           active Unit resolves the PLACE (3) effect.                                                                                                   The active Unit’s first Close Combat Weapon used
+                                                                                                                                                                                        gains PRECISION (2).
+                                                 MOVEMENT PHASE WARP CONDUIT:
+                                             ACTIVE Set a Faction Indicator anywhere on the
+                                           battlefield more than 10" away from any Enemy
+                                           model. At the End of the Round, you may Deploy
+                                           one Ground unit from Reserves in base-to-base
+                                           Contact with this Faction Indicator.
+
+
+
+
+© 2026 Blizzard Entertainment, Inc.
+© 2026 Archon
+                                                                                                                UNIQUE                                                PROTOSS                                                                                                                                    PROTOSS
+                                                                                                                                                                                                                                                                                                                                    PROTOSS FACTION
+
+
+
+
+                                                                                                                SUPPLY: 2 × CORE                                                                                                                           SUPPLY: 1 × CORE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon     v1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v1.04.26
+
+
+
+
+May 2026, v.1.0
+                                                                                                       fold here                                                                                                                                  fold here
+                                                                                                      fold here                                                                                                                                    fold here
+
+
+
+
+                                         WARP GATE                                                             WARP GATE                                                              OVERCHARGED                                                           OVERCHARGED
+                                                                                                                                                                                      NEXUS                                                                 NEXUS
+                                                                                          PE: 1                                                                 TACTICAL CARD                                                          PE: 1                                                                 TACTICAL CARD
+                                               MOVEMENT PHASE WARP IN: ACTIVE                                                                                                           ANY PHASE               PHOTON OVERCHARGE:
+                                                                                                                                                                                                                                                                                                                                TACTICAL CARDS
+
+
+
+
+                                           The active GROUND Unit Deploys from any                                                                                                       REACTION Use when an Enemy Unit enters the
+                                           table edge that is not a player’s Entry Edge. This                                                                                           battlefield from Reserves via a location other than
+                                           deployment must end more than 10" away from                                                                                                  its own Entry Edge. That Unit immediately suffers
+                                           any Enemy model. The controlling player cannot                                                                                               HITS 3 (1).
+                                           use this ability if another Friendly Ground Unit has
+                                           already Deployed this Round.
+                                                                                                                                                                                             MOVEMENT PHASE STRATEGIC RECALL:
+                                                                                                                                                                                         ACTIVE The active, Unengaged Ground Unit is
+                                                COMBAT PHASE QUICK STRIKES:                                                                                                             returned to Reserves instead of performing an
+                                            ACTIVE The active Unit’s first Close Combat                                                                                                 action.
+                                           Weapon used gains PRECISION (2).
+
+
+
+
+                                                                                                               UNIQUE                                                PROTOSS                                                                                UNIQUE                                                PROTOSS
+
+                                                                                                               SUPPLY: 2 × CORE                                                                                                                             SUPPLY: 1 × CORE, 1 × ELITE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.03.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.03.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.04.26
+
+
+
+
+                                         DAELAAM                                                               DAELAAM                                                                TWILIGHT COUNCIL                                                      TWILIGHT COUNCIL
+                                                                                          PE: 1                                                                 FACTION CARD                                                           PE: 1                                                                 TACTICAL CARD
+                                           ANY PHASE DAE’UHL: REACTION When a                                                                                                           ANY PHASE        VEIL OF SHADOWS: REACTION
+                                           Friendly Unit receives Damage, reduce the Total                                                                                              Use after a Friendly Unit resolves a PLACE effect.
+                                           Damage by 2 (to a minimum of 1).                                                                                                             That Unit immediately resolves the HEAL (2) effect.
+
+                                                 MOVEMENT PHASE MASS RECALL:                                                                                                               ASSAULT PHASE WEAPONS OF THE
+                                             ACTIVE Once per Game. Set a Faction Indicator
+                                                                                                                                                                                        FIRSTBORN: ACTIVE The active Ground Unit’s first
+                                           anywhere on the battlefield. All Friendly Protoss                                                                                            Ranged Weapon used gains BUFF Range (4).
+                                           Units Within 6" of this Faction Indicator are
+                                           removed from the battlefield and returned to
+                                           Reserves.
+
+
+
+
+© 2026 Blizzard Entertainment, Inc.
+© 2026 Archon
+                                                                                                               UNIQUE                                               PROTOSS                                                                                 UNIQUE                                                PROTOSS
+                                                                                                                                                                                                                                                                                                                                      PROTOSS FACTION
+
+
+
+
+                                                                                                               SUPPLY: 3 × CORE , 1 × ELITE, 1 × SUPPORT, 1 × AIR,                                                                                          SUPPLY: 1 × SUPPORT, 1 × ELITE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v1.04.26    © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v 1.03.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v 1.03.26
+
+
+
+
+May 2026, v.1.0
+                                                                                                      fold here                                                                                                                                    fold here
+                                                                                                      fold here                                                                                                                                  fold here
+
+
+
+
+                                         FORGE                                                                 FORGE                                                                 NEXUS                                                                NEXUS
+                                                                                           PE: 1                                                                TACTICAL CARD                                                         PE: 1                                                                TACTICAL CARD
+                                           ANY PHASE GROUND ARMOR: REACTION                                                                                                            ANY PHASE ANCIENT PRIDE: ACTIVE The
+                                                                                                                                                                                                                                                                                                                             TACTICAL CARDS
+
+
+
+
+                                           Use before a Friendly Ground Unit makes an                                                                                                  active Unit’s first Weapon used gains INSTANT.
+                                           Armour Roll. That Unit gains TOUGH (1) for
+                                           this roll.
+                                                                                                                                                                                            MOVEMENT PHASE STRATEGIC RECALL:
+                                                                                                                                                                                        ACTIVE The active, Unengaged Ground Unit is
+                                                ASSAULT PHASE GROUND WEAPONS:                                                                                                          returned to Reserves instead of performing an
+                                            ACTIVE The active Ground Unit’s first Ranged                                                                                               action.
+                                           Weapon used gains CRITICAL HIT (1).
+
+
+
+
+                                                                                                                                                                     PROTOSS                                                                              UNIQUE                                                PROTOSS
+
+                                                                                                               SUPPLY: 1 × ELITE                                                                                                                          SUPPLY: 2 × CORE
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon    v1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v1.04.26
+
+
+
+
+                                         POWER FIELD                                                           POWER                                                                 OBSERVER                                                             OBSERVER
+                                                                                                               FIELD
+                                                                                           PE: 1                                                                TACTICAL CARD                                                         PE: 1                                                                TACTICAL CARD
+                                           ANY PHASE GUARDIAN SHELL: REACTION                                                                                                               MOVEMENT PHASE SURVEILLANCE :
+                                           Use before a Friendly Ground Unit makes an                                                                                                   ACTIVE Set a Faction Indicator anywhere on the
+                                           Armour Roll. That Unit gains DODGE (2) for this                                                                                             battlefield. While Enemy Units are Within 6" of
+                                           roll.                                                                                                                                       this Faction Indicator, they lose HIDDEN Status.
+
+
+                                                                                                                                                                                            ASSAULT PHASE GRAVITIC BOOSTERS:
+                                                                                                                                                                                        REACTION Use after a Friendly Unit rolls a D6 for
+                                                                                                                                                                                       Charge Distance. Add 1 to the Charge Distance for
+                                                                                                                                                                                       this Unit.
+
+
+
+
+© 2026 Blizzard Entertainment, Inc.
+© 2026 Archon
+                                                                                                               UNIQUE                                                PROTOSS                                                                              UNIQUE                                                PROTOSS
+                                                                                                                                                                                                                                                                                                                                   PROTOSS FACTION
+
+
+
+
+                                                                                                               SUPPLY: 1 × CORE , 1 × ELITE, 1 × HERO                                                                                                     SUPPLY: 1 × SUPPORT
+                                      © 2026 Blizzard Entertainment, Inc. © 2026 Archon    v1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v1.04.26   © 2026 Blizzard Entertainment, Inc. © 2026 Archon   v1.04.26         © 2026 Blizzard Entertainment, Inc. © 2026 Archon          v1.04.26
+
+
+
+
+May 2026, v.1.0
+                                                                                                      fold here                                                                                                                                  fold here
+                                                                                                                                                           PROTOSS FACTION
+SCENARIO CARDS - MISSION & DEPLOYMENT
+
+                                                                                          fold here
+
+
+
+
+            SUPPLY DROP                                               6 +2
+                                                                     SUPPLY   PER ROUND
+                                                                                                   SUPPLY DROP                                                 4
+                                                                                                                                                              SUPPLY
+                                                                                                                                                                         +1
+                                                                                                                                                                        PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 4
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Deactivated.                                                    All Mission Markers are Deactivated.
+              START OF THE ROUND (1-4): Randomly determine one                                        START OF THE ROUND (2-4): Randomly determine one
+              Deactivated Mission Marker (1-4) and flip it to its                                     Deactivated Mission Marker (1,2,5) and flip it to its
+              Activated side.                                                                         Activated side.
+              START OF THE ROUND 5: Mission Marker 5 is
+              automatically Activated.                                                                SCORING CONDITIONS: Score VPs equal to
+                                                                                                      Enemy Supply destroyed this Round.
+              SCORING CONDITIONS: Score VPs equal to                                                  FROM THE START OF THE SECOND ROUND: For each
+              Enemy Supply destroyed this Round.                                                      activated Controlled Mission Marker, gain VPs equal to
+              FROM THE START OF THE FIRST ROUND: For each                                             the Game Round number in which that Mission Marker
+              activated Controlled Mission Marker, gain VPs equal to                                  was Activated and remove it.
+              the Game Round number in which that Mission Marker
+              was Activated and remove it.                                                            ADDITIONAL CONDITIONS:
+                                                                                                      SPECIAL WINNING CONDITIONS: The game ends
+                                                                                                      immediately if a Player leads by 8+ VPs.
+              ADDITIONAL CONDITIONS:
+              SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 12+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+
+            HOLD POSITION                                             6 +2
+                                                                     SUPPLY   PER ROUND
+                                                                                                   HOLD POSITION                                               3
+                                                                                                                                                              SUPPLY
+                                                                                                                                                                         +1
+                                                                                                                                                                        PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 5
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Activated.                                                      All Mission Markers are Activated.
+
+
+              SCORING CONDITIONS:                                                                     SCORING CONDITIONS:
+              Score VPs equal to Enemy Supply destroyed this Round.                                   Score VPs equal to Enemy Supply destroyed this Round.
+              FROM THE START OF THE SECOND ROUND:                                                     FROM THE START OF THE SECOND ROUND:
+              Gain 1 VP for each Controlled Mission Marker that is                                    Gain 1 VP for each Controlled Mission Marker that is
+              Neutral or associated with your colour.                                                 Neutral or associated with your colour.
+              Gain 2 VPs for each Controlled Mission Marker associated                                Gain 2 VPs for each Controlled Mission Marker associated
+              with the Opponent colour.                                                               with the Opponent colour.
+
+
+              ADDITIONAL CONDITIONS:                                                                  ADDITIONAL CONDITIONS:
+              SPECIAL WINNING CONDITIONS: The game ends                                               SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 10+ VPs.                                               immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+                                                                                          fold here
+                                                                                                                                       © 2026 Blizzard Entertainment, Inc.     © 2026 Archon   May 2026, v.1.0
+                                                                                                                                                           PROTOSS FACTION
+SCENARIO CARDS - MISSION & DEPLOYMENT
+
+                                                                                          fold here
+
+
+
+
+            FRONTLINES                                                6 +2
+                                                                     SUPPLY   PER ROUND
+                                                                                                   FRONTLINES                                                  3
+                                                                                                                                                              SUPPLY
+                                                                                                                                                                         +1
+                                                                                                                                                                        PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 5
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Activated.                                                      All Mission Markers are Activated.
+
+
+              SCORING CONDITIONS:                                                                     SCORING CONDITIONS:
+              Score VPs equal to Enemy Supply destroyed this Round.                                   Score VPs equal to Enemy Supply destroyed this Round.
+              FROM THE START OF THE SECOND ROUND:                                                     FROM THE START OF THE SECOND ROUND:
+              Gain 1 VP for each Controlled Mission Marker.                                           Gain 1 VP for each Controlled Mission Marker.
+              Gain an additional 2 VPs for a Marker if you gained                                     Gain an additional 2 VPs for a Marker if you gained
+              Control of it from the Opponent this Round.                                             Control of it from the Opponent this Round.
+
+
+              ADDITIONAL CONDITIONS:                                                                  ADDITIONAL CONDITIONS:
+              SPECIAL WINNING CONDITIONS: The game ends                                               SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 10+ VPs.                                               immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+
+            GATHER THE                                                6 +2                         GATHER THE                                                  3         +1
+            RESOURCES                                                SUPPLY   PER ROUND            RESOURCES                                                  SUPPLY    PER ROUND
+
+                                                                   GAME LENGTH: 5                                                                         GAME LENGTH: 5
+
+              MISSION PARAMETERS:                                                                     MISSION PARAMETERS:
+              All Mission Markers are Activated.                                                      All Mission Markers are Activated.
+
+
+              SCORING CONDITIONS:                                                                     SCORING CONDITIONS:
+              Score VPs equal to Enemy Supply destroyed this Round.                                   Score VPs equal to Enemy Supply destroyed this Round.
+              FROM THE START OF THE SECOND ROUND:                                                     FROM THE START OF THE SECOND ROUND:
+              Gain 2 VPs for each Controlled Mission Marker associated                                Gain 2 VPs for each Controlled Mission Marker associated
+              with the Opponent colour.                                                               with the Opponent colour.
+
+
+              ADDITIONAL CONDITIONS:                                                                  ADDITIONAL CONDITIONS:
+                 ASSAULT PHASE: If an Unengaged Unit is                                                  ASSAULT PHASE: If an Unengaged Unit is
+              Within 3" of a Controlled Neutral Mission Marker or                                     Within 3" of a Controlled Neutral Mission Marker or
+              associated with the Opponent, this unit may perform the                                 associated with the Opponent, this unit may perform the
+              Gather Action instead of a standard action.                                             Gather Action instead of a standard action.
+              GATHER ACTION: Gain 1 VP.                                                               GATHER ACTION: Gain 1 VP.
+              SPECIAL WINNING CONDITIONS: The game ends                                               SPECIAL WINNING CONDITIONS: The game ends
+              immediately if a Player leads by 10+ VPs.                                               immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                              STANDARD ENGAGEMENT                                                                           SKIRMISH LEVEL
+          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                   v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                      v 1.04.26
+
+
+
+                                                                                          fold here
+                                                                                                                                       © 2026 Blizzard Entertainment, Inc.     © 2026 Archon   May 2026, v.1.0
+                                                                                                                                                                                                       PROTOSS FACTION
+            SCENARIO CARDS - MISSION & DEPLOYMENT
+                                                                                                                              fold here
+
+
+
+                                         DIVIDE AND                                                      8 +2                          DIVIDE AND                                                           4             +1
+                                         CONQUER                                                        SUPPLY    PER ROUND            CONQUER                                                           SUPPLY          PER ROUND
+
+                                                                                                    GAME LENGTH: 4                                                                                     GAME LENGTH: 4
+
+                                           MISSION PARAMETERS:                                                                            MISSION PARAMETERS:
+                                           All Mission Markers are Activated.                                                             All Mission Markers are Activated.
+                                           Split the Battlefield in four quarters as shown on the                                         Split the Battlefield in four quarters as shown on the
+                                           Deployment Card.                                                                               Deployment Card.
+
+
+                                            SCORING CONDITIONS:                                                                           SCORING CONDITIONS:
+                                           Score VPs equal to Enemy Supply destroyed this Round.                                          Score VPs equal to Enemy Supply destroyed this Round.
+                                           FROM THE START OF THE FIRST ROUND:                                                             FROM THE START OF THE FIRST ROUND:
+                                           Calculate Total Current Supply in each battlefield quarter.                                    Calculate Total Current Supply in each battlefield quarter.
+                                           Gain 1 VP for each quarter where your Total Current                                            Gain 1 VP for each quarter where your Total Current
+                                           Supply is higher than the Opponent's.                                                          Supply is higher than the Opponent's.
+                                           Only Units Wholly Within a quarter contribute their                                            Only Units Wholly Within a quarter contribute their
+                                           Supply to this check.                                                                          Supply to this check.
+                                           If a Unit controls a Mission Marker, that Unit is worth 1                                      If a Unit controls a Mission Marker, that Unit is worth 1
+                                           extra Supply for controlling quarters.                                                         extra Supply for controlling quarters.
+                                           Gain 2 VP for Controlling Mission Marker 5.                                                    Gain 2 VP for Controlling Mission Marker 5.
+
+                                           ADDITIONAL CONDITIONS:                                                                         ADDITIONAL CONDITIONS:
+                                           SPECIAL WINNING CONDITIONS: The game ends                                                      SPECIAL WINNING CONDITIONS: The game ends
+                                           immediately if a Player leads by 10+ VPs.                                                      immediately if a Player leads by 8+ VPs.
+
+
+
+
+                                                                                           STANDARD ENGAGEMENT                                                                                          SKIRMISH LEVEL
+                                       © 2026 Blizzard Entertainment, Inc. © 2026 Archon                          v 1.04.26          © 2026 Blizzard Entertainment, Inc. © 2026 Archon                                  v 1.04.26
+
+
+
+                                                                                                                              fold here
+                                                        v 1.03.26               © 2026 Blizzard Entertainment, Inc. © 2026 Archon                                               v 1.03.26                     © 2026 Blizzard Entertainment, Inc. © 2026 Archon
+
+                SKIRMISH LEVEL                                                                                                         SKIRMISH LEVEL
+                                                                                                                                                                                12"
+
+                                                  RED                6"                                                                                                  BLUE               6"                   6"
+                                                                                                                                                                                                                     1
+                                                                                                                                                                12"                                                       6"
+                                                                                      18"
+
+                                                                                                                                                                         6"
+                                                                                            6"
+                                                    2                5                 1                                                                                                         5
+                                               6"
+                                                                                                                                                                                                                         6"
+
+                                                    18"                                                                                                                                                                         12"
+                                                                                                                                                                      6"
+                                                                                                                                                                              2
+                                                                     6"           BLUE                                                                                          6"                     6"           RED
+                                                                                                                                                                                                                12"
+
+                              36×36˝                                   ABANDONED CAMP                                                                36×36˝                                                         AGRIA VALLEY
+fold here
+
+
+
+
+                                                                                                                                                                                                                                                                   fold here
+
+
+
+
+                GAUNTLET                                                                          54×36˝                               TYPHOON                                                                                  54×36˝
+
+                                                                                                                                                                                                                         24"
+
+                                                                     6"                           RED                                                            6"                               6"                                RED
+                                                                                                                                                                2                 12"
+                                               12"                               12"                                                                      6"
+                                                                                                                                                                                                                                             18"
+                                       12"      1                                 3           18"                                                                  18"            1
+
+                                                                    5                                                                                      6"
+                                                                                                                                                                                                 5
+                                                                                                                                                                                                                                        6"
+                                            18"           4                                 2     12"                                                                                                           4             18"
+                                                          12"                               12"                                                   18"
+                                                                                                                                                                                                                                        6"
+                                                                                                                                                                                                               12"                  3
+                                     BLUE                            6"                                                                                    BLUE                                  6"                            6"
+                                                                                                                                                                      24"
+                                                                                           STANDARD ENGAGEMENT                                                                                                           STANDARD ENGAGEMENT
+             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                v 1.03.26                                             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                       v 1.03.26
+
+
+
+                                                                                                                                                                              © 2026 Blizzard Entertainment, Inc.              © 2026 Archon         May 2026, v.1.0
+                                                                                                                                                                                                          PROTOSS FACTION
+            SCENARIO CARDS - MISSION & DEPLOYMENT
+
+
+                                                         v 1.03.26                     © 2026 Blizzard Entertainment, Inc. © 2026 Archon                                                v 1.03.26              © 2026 Blizzard Entertainment, Inc. © 2026 Archon
+
+                SKIRMISH LEVEL                                                                                                                     SKIRMISH LEVEL
+                                                      12"                                                                                                                                           12"
+
+                                                  BLUE               6"                                                                                                                         6" RED            6"
+                                         12"                                                                                                                                                                          1
+                                                                                                                                                                                                                            6"
+                                                                          18"
+
+                                                  6"                                                                                                                          BLUE
+                                                                                                  6"
+                                                       2                  5                  1                                                                          12"      6"                  5                    6"     12"
+                                                 6"
+                                                                                                 6"                                                                                                                      BLUE
+
+                                                                                                                                                                              6"
+                                                                                                        12"                                                                           2
+                                                                                6"          RED                                                                                         6"           RED 6"
+
+                                                                                            12"                                                                                                     12"
+
+                              36×36˝                                                                    DIRT SIDE                                            36×36˝                                                              FRONTIER
+fold here
+
+
+
+
+                                                                                                                                                                                                                                                                    fold here
+                ACROPOLIS                                                                               54×36˝                                     PROVING GROUNDS                                                                54×36˝
+
+                                           18"                                                        18"                                                                                                                              6"
+
+                            6"      RED                                    6"                          BLUE          6"                                                                 6"               BLUE
+                                               12"                                               12"                                                                          12"                   12"                   12"
+                                         12"     1                                                2     12"                                                        12"         1                     5                    3            12"
+
+                                                                          5
+
+                                         12"     4                                                3     12"                                                                18"            4                      2             18"
+                                                 12"                                             12"
+                                                                                                                                                                                          12"                   12"
+                            6"      BLUE                                                                    RED      6"                                          RED                                                                 RED
+                                           18"                                                                                                                     6"
+                                                                                                 STANDARD ENGAGEMENT                                                                                                      STANDARD ENGAGEMENT
+             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                       v 1.03.26                                              © 2026 Blizzard Entertainment, Inc. © 2026 Archon                v 1.03.26
+
+                                                         v 1.03.26                     © 2026 Blizzard Entertainment, Inc. © 2026 Archon
+
+                SKIRMISH LEVEL
+                                                           18"
+
+                                                  RED                6"                   6"
+                                                                                             1
+                                                                                                  6"
+
+
+
+                                                       12"       5
+
+
+
+                                                                                                  6"
+                                                                                             2
+                                                  BLUE               6"                   6"
+                                                           18"
+
+
+                              36×36˝                                                             CHAR PLAINS
+fold here
+
+
+
+
+                                                                                                                                           fold here
+
+
+
+
+                BREACH                                                                                  54×36˝
+
+                                                                                                              6"
+
+                                                              6"                      6"
+                                            18"              1                          2             18"
+
+
+
+
+                                  BLUE                                    5                                 RED
+
+
+                                            18"              4                          3             18"
+                                                              6"                      6"
+                                    6"
+                                                                                                 STANDARD ENGAGEMENT
+             © 2026 Blizzard Entertainment, Inc. © 2026 Archon                       v 1.03.26
+
+
+                                                                                                                                                                                      © 2026 Blizzard Entertainment, Inc.        © 2026 Archon        May 2026, v.1.0
+

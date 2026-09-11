@@ -1,0 +1,167 @@
+TERRAN	STIMPACK	ACTIVE	STIMPACK: ACTIVE 1 CP This Unit suffers NON-LETHAL DAMAGE (2). This Unit gains BUFF Speed (3). Additionally, its C-14 Rifle and all Close Combat Weapons gain PRECISION (3).	Terran Cards · sheet 1
+TERRAN	SLUGTHROWER	PASSIVE	"SLUGTHROWER: PASSIVE When this Unit makes a Ranged Attack with a C-14 Rifle and the target is Within 8"", that weapon gains ANTI-EVADE (1)."	Terran Cards · sheet 1
+TERRAN	GRENADES - FRAG	PASSIVE	"GRENADES - FRAG: PASSIVE When this Unit makes a Ranged Attack with a C-14 Rifle and the target is Within 8"", that weapon’s S Dice is replaced by D6."	Terran Cards · sheet 1
+TERRAN	COMBAT SHIELD	ACTIVE	COMBAT SHIELD: ACTIVE 1 CP This Unit is always eligible to make an Evade Roll against any Close Combat Attack targeting it and any Damage from an Enemy Special Ability.	Terran Cards · sheet 1
+TERRAN	LASER TARGETING SYSTEMS	PASSIVE	"LASER TARGETING SYSTEMS: PASSIVE This Unit’s Quad K12 weapon gains LONG RANGE (16"")."	Terran Cards · sheet 2
+TERRAN	VETERAN OF TARSONIS	PASSIVE	"VETERAN OF TARSONIS: PASSIVE While this Unit is Within 3"" of a Mission Marker, its Armour characteristic is increased by 1."	Terran Cards · sheet 2
+TERRAN	KINETIC FOAM	PASSIVE	KINETIC FOAM: PASSIVE Increase this Unit's Hit Points characteristic by 1.	Terran Cards · sheet 2
+TERRAN	CONCUSIVE SHELLS	REACTION	"CONCUSIVE SHELLS: REACTION 1 CP When an Enemy declares a Charge against a Friendly Unit Within 8"", that Enemy gains DEBUFF Speed (2)."	Terran Cards · sheet 2
+TERRAN	STIMPACK	ACTIVE	STIMPACK: ACTIVE 1 CP This Unit suffers NON-LETHAL DAMAGE (2). This Unit gains BUFF Speed (3). Additionally, its Quad K12 and all Close Combat Weapons gain PRECISION (2).	Terran Cards · sheet 2
+TERRAN	MEDPACK	ACTIVE	"MEDPACK: ACTIVE 1 CP Select another Friendly Biological Unit Within 4"". Resolve the HEAL (X) effect for the targeted Unit, where X is the number of models in this Unit that are Within 4"" of the target Unit."	Terran Cards · sheet 3
+TERRAN	OPTICAL FLARE	ACTIVE	"OPTICAL FLARE: ACTIVE 2 CP Select one Enemy Unit Within 12"". Until the End of the Round, apply DEBUFF Range (4) to that Unit’s Ranged Weapons. That Unit cannot benefit from LONG RANGE."	Terran Cards · sheet 3
+TERRAN	LIFE SUPPORT	REACTION	"LIFE SUPPORT: REACTION 1 CP Use when another Friendly Biological Unit suffers Damage Within 4"". Reduce the Total Damage before allocation by 1 for each model in this Unit that is Within 4"" of the damaged Unit."	Terran Cards · sheet 3
+TERRAN	RESTORATION	REACTION	"RESTORATION: REACTION 1 CP Use when a Friendly Unit Within 4"" receives a DEBUFF. Remove all DEBUFFS from it."	Terran Cards · sheet 3
+TERRAN	ADVANCED MEDIC FACILITIES	PASSIVE	ADVANCED MEDIC FACILITIES: PASSIVE This Unit’s Supply Value counts as 0 when calculating the Supply Pool.	Terran Cards · sheet 3
+TERRAN	A-13 FLASH GRENADE LAUNCHER	PASSIVE	"A-13 FLASH GRENADE LAUNCHER: PASSIVE Increase the Optical Flare special ability's Range to 16""."	Terran Cards · sheet 3
+TERRAN	STABILIZER MEDPACKS	PASSIVE	STABILIZER MEDPACKS: PASSIVE When this Unit resolves a Life Support or Medpack ability, treat it as having 1 additional model Within Range for calculating that ability's effects.	Terran Cards · sheet 3
+TERRAN	ORDERS	ACTIVE	"ORDERS: ACTIVE X CP REPEATABLE. Select another Friendly Biological Unit Within 8"", spend CP and apply one of the following effects:"	Terran Cards · sheet 4
+TERRAN	COMMANDER	PASSIVE	COMMANDER: PASSIVE Treat this Unit’s Supply characteristic as increased by 1 for Controlling and Contesting Mission Markers, completing objectives, and resolving Disengage checks.	Terran Cards · sheet 4
+TERRAN	FREEDOM FIGHTERS	PASSIVE	"FREEDOM FIGHTERS: PASSIVE The Supply Value of all Friendly Units Within 8"" of this Unit cannot be reduced below 1 for Contesting Mission Markers and completing objectives."	Terran Cards · sheet 4
+TERRAN	POINT DEFENSE LASER	PASSIVE	"POINT DEFENSE LASER: PASSIVE When another Friendly Unit Within 4"" is targeted by a Ranged Attack without the INSTANT keyword, remove up to 2 dice from the Attack Pool. Then remove this Unit from the battlefield."	Terran Cards · sheet 5
+TERRAN	GLIDING	PASSIVE	GLIDING: PASSIVE This model has DISPLACEMENT.	Terran Cards · sheet 5
+TERRAN	STRUCTURE	PASSIVE	STRUCTURE: PASSIVE This Unit cannot be Activated in any Phase and cannot perform actions. Additionally, its Current Supply Value is treated as 0, and it can never Control or Contest Mission Markers, ignoring the standard Zero Supply Exception. This Unit cannot be a target of an ability, unless stated otherwise.	Terran Cards · sheet 5
+TERRAN	SLUGTHROWER	PASSIVE	"SLUGTHROWER: PASSIVE When this Unit makes a Ranged Attack with a C-14 Rifle and the target is Within 8"", that weapon gains ANTI-EVADE (1)."	Terran Cards · sheet 6
+TERRAN	GRENADES - FRAG	PASSIVE	"GRENADES - FRAG: PASSIVE When this Unit makes a Ranged Attack with a C-14 Rifle and the target is Within 8"", that weapon’s S Dice is replaced by D6."	Terran Cards · sheet 6
+TERRAN	STIMPACK	ACTIVE	STIMPACK: ACTIVE 1 CP This Unit suffers NON-LETHAL DAMAGE (2). This Unit gains BUFF Speed (3). Additionally, its C-14 Rifle and all Close Combat Weapons gain PRECISION (3).	Terran Cards · sheet 6
+TERRAN	RAIDERS ROLL!	PASSIVE	RAIDERS ROLL!: PASSIVE When this Unit is nominated to deploy from Reserves, it may resolve its Stimpack ability with the CP cost reduced by 1 (to a minimum of 0).	Terran Cards · sheet 6
+TERRAN	RAPID REINFORCEMENTS	PASSIVE	"RAPID REINFORCEMENTS: PASSIVE When this Unit is nominated to deploy from Reserves, it may resolve the PLACE (10) effect from another Friendly Unit. No model may be set Within 8"" of any Enemy model. This Unit's Activation ends."	Terran Cards · sheet 6
+TERRAN	ARES-CLASS TARGETING SYSTEM	PASSIVE	ARES-CLASS TARGETING SYSTEM: PASSIVE This Unit’s Autocannon and Underbelly Machine Gun weapons gain PRECISION (1).	Terran Cards · sheet 7
+TERRAN	SIDEARM INDOMITABLE	PASSIVE	SIDEARM INDOMITABLE: PASSIVE While Engaged, this Unit may target and be targeted by Unengaged Enemy Units. In both cases, the defending Unit gains an Evade Roll against those attacks.	Terran Cards · sheet 7
+TERRAN	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (4) 3+ effect.	Terran Cards · sheet 7
+TERRAN	TARGET LOCK	ACTIVE	"TARGET LOCK: ACTIVE 1 CP Select one Enemy Unit Within 12"". Whenever a Friendly Goliath Unit targets that enemy with an Autocannon, that weapon gains Surge Type: Light, Armoured, and S Dice: D3+1."	Terran Cards · sheet 7
+TERRAN	GO! GO! GO!	ACTIVE	"GO! GO! GO!: ACTIVE The active Biological Unit performs a 2"" Move action. This does not count towards its action limit."	Terran Cards · sheet 8
+TERRAN	INFANTRY ARMOR	REACTION	INFANTRY ARMOR: REACTION Use before a Friendly Biological Unit makes an Armour Roll. That Unit gains TOUGH (1) for this roll.	Terran Cards · sheet 8
+TERRAN	ADDITIONAL SUPPLY DEPOTS	ACTIVE	ADDITIONAL SUPPLY DEPOTS: ACTIVE The active Unit’s Supply Value is improved by 1 for Controlling and Contesting Mission Markers and completing objectives.	Terran Cards · sheet 9
+TERRAN	STRAP IN!	ACTIVE	STRAP IN!: ACTIVE The active, Unengaged Ground Unit is returned to Reserves instead of performing an action.	Terran Cards · sheet 9
+TERRAN	READY FOR DUST-OFF	ACTIVE	"READY FOR DUST-OFF : ACTIVE Set a Faction Indicator anywhere on the battlefield more than 10"" away from any Enemy model. At the End of the Round, the controlling player may Deploy one Ground Unit from Reserves in base-to-base contact with this Faction Indicator."	Terran Cards · sheet 9
+TERRAN	READY FOR PICKUP?	ACTIVE	READY FOR PICKUP?: ACTIVE Once Per Game. The active Unit resolves the PLACE (12) effect. Models set by this effect cannot be set up Within the Engagement Range of any Enemy Unit. This resolves instead of performing a standard action.	Terran Cards · sheet 9
+TERRAN	FIELD REPAIR	ACTIVE	FIELD REPAIR: ACTIVE The active Mechanical Unit resolves the HEAL (2) effect.	Terran Cards · sheet 10
+TERRAN	GO! GO! GO!	ACTIVE	"GO! GO! GO!: ACTIVE The active Biological Unit performs a 2"" Move action. This does not count towards its action limit."	Terran Cards · sheet 10
+TERRAN	VEHICLE PLATING	REACTION	VEHICLE PLATING: REACTION Use before a Friendly Mechanical Unit makes an Armour Roll. That Unit gains TOUGH (1) for this roll.	Terran Cards · sheet 10
+TERRAN	GO! GO! GO!	ACTIVE	"GO! GO! GO!: ACTIVE The active Biological Unit performs a 2"" Move action. This does not count towards its action limit."	Terran Cards · sheet 10
+PROTOSS	PSIONIC TRANSFER	ACTIVE	"PSIONIC TRANSFER: ACTIVE 1 PE Set a Shade token Wholly Within 12"" of any model in this Unit. At the End of the Round, the controlling player may set all models of this Unit in Coherency, treating the Shade token as the Leading Model. The Shade token has DISPLACEMENT."	Protoss Cards · sheet 1
+PROTOSS	PSIONIC PRESENCE	PASSIVE	"PSIONIC PRESENCE: PASSIVE All Weapons of Friendly Units targeting an Enemy Unit Within 4"" of this Unit’s Shade token gain PRECISION (1)."	Protoss Cards · sheet 1
+PROTOSS	RESONATING GLAVES	ACTIVE	RESONATING GLAVES: ACTIVE 1 PE This Unit's Glaive Cannon gains BUFF RoA (1).	Protoss Cards · sheet 1
+PROTOSS	GUIDANCE	PASSIVE	GUIDANCE: PASSIVE This Unit's Glaive Cannon Ranged weapon gains ANTI-EVADE (2).	Protoss Cards · sheet 1
+PROTOSS	HIERARCH’S STAND	REACTION	"HIERARCH’S STAND: REACTION 1 PE When another Friendly Unit Within 8"" is declared as the target of a Ranged Attack and this Unit is a valid target, redirect the attack to this Unit. This Unit is eligible to make an Evade Roll against the redirected attack. This Special Ability remains active until the End of the current Activation."	Protoss Cards · sheet 2
+PROTOSS	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (6) 4+ effect.	Protoss Cards · sheet 2
+PROTOSS	COMMANDER	PASSIVE	COMMANDER: PASSIVE Treat this Unit’s Supply characteristic as increased by 1 for Controlling and Contesting Mission Markers, completing objectives, and resolving Disengage checks.	Protoss Cards · sheet 2
+PROTOSS	TITAN KILLERS	PASSIVE	D3 1 - TITAN KILLERS: PASSIVE When this Unit makes a Close Combat Attack, and the target is Size 3 or larger, the weapon’s Damage characteristic is treated as 2.	Protoss Cards · sheet 3
+PROTOSS	PRECOGNITION	PASSIVE	PRECOGNITION: PASSIVE This Unit is eligible to make an Evade roll against all attacks targeting it.	Protoss Cards · sheet 3
+PROTOSS	CHARGE	ACTIVE	CHARGE: ACTIVE 1 PE When determining Charge Distance for this Unit, roll 2D6 instead of D6 and use the higher result to add to the Unit’s Speed characteristic.	Protoss Cards · sheet 3
+PROTOSS	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (3) 4+ effect.	Protoss Cards · sheet 3
+PROTOSS	LEG ENHANCEMENTS	ACTIVE	"LEG ENHANCEMENTS: ACTIVE 1 PE This Unit performs a 2"" Move action. This does not count towards its action limit."	Protoss Cards · sheet 3
+PROTOSS	SHIELD OVERCHARGE	PASSIVE	SHIELD OVERCHARGE: PASSIVE This Unit gains TOUGH (2) on the first Armour Roll each Round.	Protoss Cards · sheet 3
+PROTOSS	WARP CONDUIT	PASSIVE	WARP CONDUIT: PASSIVE Once per Round, the controlling player may deploy a Ground Unit from Reserves using this Pylon base as the Entry Edge. This Unit's Activation ends.	Protoss Cards · sheet 4
+PROTOSS	KHALAI INGENUITY	PASSIVE	"KHALAI INGENUITY: PASSIVE Once per Round, when a Friendly Unit Within 4"" of this Pylon uses a Special Ability that costs Psionic Energy, that ability’s PE cost is reduced by 1."	Protoss Cards · sheet 4
+PROTOSS	STRUCTURE	PASSIVE	STRUCTURE: PASSIVE This Unit cannot be Activated in any Phase and cannot perform actions. Additionally, its Current Supply Value is treated as 0, and it can never Control or Contest Mission Markers, ignoring the standard Zero Supply Exception. This Unit cannot be a target of an ability, unless stated otherwise.	Protoss Cards · sheet 4
+PROTOSS	FORCE FIELD	ACTIVE	"FORCE FIELD: ACTIVE 1 PE Set a Force Field token Within 8"" in an unoccupied space. Units of Size 2 or lower cannot move across Force Fields. Models of Size 3 or more can move over it, and it's then removed."	Protoss Cards · sheet 5
+PROTOSS	RESTORATION	REACTION	"RESTORATION: REACTION 1 PE Use when a Friendly Unit Within 4"" receives a DEBUFF. Remove all DEBUFFS from it."	Protoss Cards · sheet 5
+PROTOSS	HALLUCINATION	REACTION	"HALLUCINATION: REACTION 0 PE When an Enemy Unit declares a Ranged Attack against a Friendly Unit Within 4"", the targeted Friendly Unit is eligible to make an Evade Roll against that attack."	Protoss Cards · sheet 5
+PROTOSS	SOLID-FIELD PROJECTORS	ACTIVE	"SOLID-FIELD PROJECTORS: ACTIVE 1 PE Set a Force Field token Within 8"" in an unoccupied space. Units of Size 2 or lower cannot move across Force Fields. Models of Size 3 or more can move over it, and it's then removed."	Protoss Cards · sheet 5
+PROTOSS	BLINK	ACTIVE	BLINK: ACTIVE 1 PE Resolve the PLACE (6) effect. Models set by this effect cannot be set up Within the Engagement Range of any Enemy Unit.	Protoss Cards · sheet 6
+PROTOSS	SQUADRON	PASSIVE	"SQUADRON: PASSIVE This Unit’s Horizontal Coherency is 4""."	Protoss Cards · sheet 6
+PROTOSS	FURY OF THE NERAZIM	PASSIVE	FURY OF THE NERAZIM: PASSIVE When this Unit attacks an Enemy Unit that has already been Activated during this Phase, its Particle Disruptors gain INSTANT for that attack.	Protoss Cards · sheet 6
+PROTOSS	PATH OF SHADOWS	ACTIVE	PATH OF SHADOWS: ACTIVE 1 PE This Unit gains HIDDEN Status until it performs another action.	Protoss Cards · sheet 6
+PROTOSS	CHARGE	ACTIVE	CHARGE: ACTIVE 1 PE When determining Charge Distance for this Unit, roll 2D6 instead of D6 and use the higher result to add to the Unit’s Speed characteristic.	Protoss Cards · sheet 7
+PROTOSS	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (3) 4+ effect.	Protoss Cards · sheet 7
+PROTOSS	WE STAND AS ONE	PASSIVE	WE STAND AS ONE: PASSIVE When this Unit makes a Close Combat Attack, if the target is Engaged with at least 1 other Friendly Unit, this Unit's Close Combat Weapon gains PRECISION (2).	Protoss Cards · sheet 7
+PROTOSS	ZEALOUS ROUND	REACTION	ZEALOUS ROUND: REACTION 0 PE When this Unit is not Activated and receives Damage, the controlling player may count this Unit as Activated in this Phase (flip its Activation Marker) to reduce the Total Damage by 2.	Protoss Cards · sheet 7
+PROTOSS	MY LIFE FOR AIUR	PASSIVE	MY LIFE FOR AIUR: PASSIVE When this Unit resolves IMPACT, each eligible model generates 1 additional IMPACT die.	Protoss Cards · sheet 7
+PROTOSS	LEG ENHANCEMENTS	ACTIVE	"LEG ENHANCEMENTS: ACTIVE 1 PE This Unit performs a 2"" Move action. This does not count towards its action limit."	Protoss Cards · sheet 7
+PROTOSS	QUICK STRIKES	ACTIVE	QUICK STRIKES: ACTIVE The active Unit’s first Close Combat Weapon used gains PRECISION (2).	Protoss Cards · sheet 8
+PROTOSS	PYLON WARP-IN	ACTIVE	"PYLON WARP-IN: ACTIVE If there is no Friendly Pylon on the battlefield, set a Friendly Pylon Unit anywhere on the GROUND LEVEL of the battlefield more than 10"" away from any Enemy model. This Round, the Pylon is not eligible to use its Special Abilities (excluding Structure)."	Protoss Cards · sheet 8
+PROTOSS	BOUND BY THE KHALA	ACTIVE	BOUND BY THE KHALA: ACTIVE At the end of the active Unit’s Activation, select one other Friendly Unit eligible to Activate in the current Phase. Immediately Activate that Unit.	Protoss Cards · sheet 8
+PROTOSS	WEAPONS OF THE FIRSTBORN	ACTIVE	WEAPONS OF THE FIRSTBORN: ACTIVE The active Ground Unit’s first Ranged Weapon used gains BUFF Range (4).	Protoss Cards · sheet 9
+PROTOSS	VEIL OF SHADOWS	REACTION	VEIL OF SHADOWS: REACTION Use after a Friendly Unit resolves a PLACE effect. That Unit immediately resolves the HEAL (2) effect.	Protoss Cards · sheet 9
+PROTOSS	WARP IN	ACTIVE	"WARP IN: ACTIVE The active GROUND Unit Deploys from any table edge that is not a player’s Entry Edge. This deployment must end more than 10"" away from any Enemy model. The controlling player cannot use this ability if another Friendly Ground Unit has already Deployed this Round."	Protoss Cards · sheet 9
+PROTOSS	DAE’UHL	REACTION	DAE’UHL: REACTION When a Friendly Unit receives Damage, reduce the Total Damage by 2 (to a minimum of 1).	Protoss Cards · sheet 9
+PROTOSS	ANCIENT PRIDE	ACTIVE	ANCIENT PRIDE: ACTIVE The active Unit’s first Weapon used gains INSTANT.	Protoss Cards · sheet 10
+PROTOSS	GROUND ARMOR	REACTION	GROUND ARMOR: REACTION Use before a Friendly Ground Unit makes an Armour Roll. That Unit gains TOUGH (1) for this roll.	Protoss Cards · sheet 10
+PROTOSS	GUARDIAN SHELL	REACTION	GUARDIAN SHELL: REACTION Use before a Friendly Ground Unit makes an Armour Roll. That Unit gains DODGE (2) for this roll.	Protoss Cards · sheet 10
+ZERG	LUNGE	REACTION	"LUNGE: REACTION 1 BM When another Friendly Unit Within 10"" is the target of a Ranged Attack, after the attack is fully resolved, this Unit, if Unengaged, may perform a Move action Directly Towards the attacking Unit."	Zerg Cards · sheet 1
+ZERG	SQUADRON	PASSIVE	"SQUADRON: PASSIVE This Unit’s Horizontal Coherency is 4""."	Zerg Cards · sheet 1
+ZERG	GROOVED SPINES	PASSIVE	"GROOVED SPINES: PASSIVE This Unit's Needle Spines ranged weapon gains LONG RANGE (16"")."	Zerg Cards · sheet 1
+ZERG	ANCILLARY CARAPACE	PASSIVE	ANCILLARY CARAPACE: PASSIVE This Unit gains TOUGH (1) on the first Armour Roll of each Activation.	Zerg Cards · sheet 1
+ZERG	LURKING	PASSIVE	LURKING: PASSIVE If this Unit has Stationary Status, it is eligible to make an Evade Roll against the first Ranged Attack targeting it this Round. If this Unit is ON CREEP, it gains +1 Modifier to this Evade Roll.	Zerg Cards · sheet 1
+ZERG	BURROW AMBUSH	PASSIVE	"BURROW AMBUSH: PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be set Within 10"" of any Enemy model. This Unit's Activation ends."	Zerg Cards · sheet 1
+ZERG	LEAPING STRIKE	ACTIVE	LEAPING STRIKE: ACTIVE 1 BM If Unengaged, resolve the PLACE (6) effect.	Zerg Cards · sheet 2
+ZERG	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (4) 4+ effect.	Zerg Cards · sheet 2
+ZERG	CRUSHING GRIP	ACTIVE	"CRUSHING GRIP: ACTIVE 1 BM Select one Enemy Unit Within 12"". That Unit counts as Activated in this Phase (set an Activation Marker next to it)."	Zerg Cards · sheet 2
+ZERG	MUTATING CARAPACE	ACTIVE	"MUTATING CARAPACE: ACTIVE 1 BM Select one Enemy Unit Within 18"". This Unit is eligible to make an Evade Roll against all attacks made by the selected Enemy Unit, with a +2 Modifier applied to those Evade Rolls."	Zerg Cards · sheet 2
+ZERG	COMMANDER	PASSIVE	COMMANDER: PASSIVE Treat this Unit’s Supply characteristic as increased by 1 for Controlling and Contesting Mission Markers, completing objectives, and resolving Disengage checks.	Zerg Cards · sheet 2
+ZERG	DETECTION	PASSIVE	"DETECTION: PASSIVE While Enemy Units are Within 6"" of this Unit, they lose HIDDEN Status."	Zerg Cards · sheet 3
+ZERG	SOURCE OF CREEP	PASSIVE	"SOURCE OF CREEP: PASSIVE A Friendly or Enemy Ground Zerg Unit Within 6"" of this Unit, counts as being ON CREEP."	Zerg Cards · sheet 3
+ZERG	STRUCTURE	PASSIVE	STRUCTURE: PASSIVE This Unit cannot be Activated in any Phase and cannot perform actions. Additionally, its Current Supply Value is treated as 0, and it can never Control or Contest Mission Markers, ignoring the standard Zero Supply Exception. This Unit cannot be a target of an ability, unless stated otherwise.	Zerg Cards · sheet 3
+ZERG	OMEGA NETWORK	PASSIVE	OMEGA NETWORK: PASSIVE The base of the Omega Worm counts as an Entry Edge. Each Round, Friendly Units with a combined Supply cost of 2 or less may be Deployed via this Entry Edge.	Zerg Cards · sheet 3
+ZERG	LEAP	ACTIVE	LEAP: ACTIVE 1 BM When determining Charge Distance for this Unit, add 2 to the Charge Distance.	Zerg Cards · sheet 4
+ZERG	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (2) 5+ effect.	Zerg Cards · sheet 4
+ZERG	ADRENAL OVERLOAD	ACTIVE	ADRENAL OVERLOAD: ACTIVE 1 BM This Unit gains a +1 Modifier to all IMPACT Hit Rolls.	Zerg Cards · sheet 4
+ZERG	SQUADRON	PASSIVE	"SQUADRON: PASSIVE This Unit’s Horizontal Coherency is 4""."	Zerg Cards · sheet 4
+ZERG	RAPTOR STRAIN	PASSIVE	RAPTOR STRAIN: PASSIVE This Unit can move through IMPASSABLE TERRAIN of Size 4 or less and change elevation without using ACCESS POINTS.	Zerg Cards · sheet 4
+ZERG	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (4) 3+ effect.	Zerg Cards · sheet 5
+ZERG	SPAWN CREEP TUMOR	ACTIVE	SPAWN CREEP TUMOR: ACTIVE 1 BM Set a Creep Tumor token in base-to-base contact with this Unit.	Zerg Cards · sheet 5
+ZERG	TRANSFUSION	REACTION	"TRANSFUSION: REACTION 1 BM Use when another Friendly Biological Unit (including a Structure) suffers Damage Within 4"". Reduce the Total Damage before allocation by 2."	Zerg Cards · sheet 5
+ZERG	RESTORATION	REACTION	"RESTORATION: REACTION 1 BM Use when a Friendly Unit Within 4"" receives a DEBUFF. Remove all DEBUFFS from it."	Zerg Cards · sheet 5
+ZERG	PSIONIC LINK	PASSIVE	"PSIONIC LINK: PASSIVE Once per Round, if there are at least 7 Friendly models Within 6"" of this Unit, it may resolve its Special Ability with the BM cost reduced by 1."	Zerg Cards · sheet 5
+ZERG	DOMINEERING PRESENCE	ACTIVE	"DOMINEERING PRESENCE: ACTIVE 1 BM Select another Friendly Unit Within 6"" (Line of Sight is not required). That Unit’s Supply characteristic is increased by 1 for Controlling and Contesting Mission Markers and completing objectives."	Zerg Cards · sheet 5
+ZERG	CREEP SPEED	PASSIVE	CREEP SPEED: PASSIVE While this Unit is ON CREEP, increase this Unit's Speed characteristic by 2.	Zerg Cards · sheet 5
+ZERG	REGENERATION	PASSIVE	REGENERATION: PASSIVE When this Unit becomes Activated, if it has the Burrowed Status, resolve the HEAL (2) effect.	Zerg Cards · sheet 6
+ZERG	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (2) 4+ effect.	Zerg Cards · sheet 6
+ZERG	BURROW	ACTIVE	BURROW: ACTIVE 2 BM If this Unit is Unengaged, it gains or loses the Burrowed Status.	Zerg Cards · sheet 6
+ZERG	HYDRIODIC BILE	PASSIVE	HYDRIODIC BILE: PASSIVE This Unit's Acid Saliva weapon gains Surge Type: Light, and S Dice: D3+1.	Zerg Cards · sheet 6
+ZERG	TUNNELING CLAWS	PASSIVE	TUNNELING CLAWS: PASSIVE While this Unit has the Burrowed Status, it may perform the Move and Run actions without losing that Status. It may also move through other Units’ bases.	Zerg Cards · sheet 6
+ZERG	GLIAL RECONSTITUTION	ACTIVE	GLIAL RECONSTITUTION: ACTIVE 1 CP This Unit gains BUFF SPEED (1), or BUFF SPEED (2) if the Unit is ON CREEP.	Zerg Cards · sheet 6
+ZERG	BURROW AMBUSH	PASSIVE	"BURROW AMBUSH: PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be set Within 10"" of any Enemy model. This Unit's Activation ends."	Zerg Cards · sheet 6
+ZERG	REGENERATION	PASSIVE	REGENERATION: PASSIVE When this Unit becomes Activated, if it has the Burrowed Status, resolve the HEAL (2) effect.	Zerg Cards · sheet 7
+ZERG	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (3) 4+ effect.	Zerg Cards · sheet 7
+ZERG	ROACHLING INFESTATION	ACTIVE	ROACHLING INFESTATION: ACTIVE 2 BM Once Per Game. Resolve the SUMMON (Roachling) effect.	Zerg Cards · sheet 7
+ZERG	BURROW	ACTIVE	BURROW: ACTIVE 2 BM If this Unit is Unengaged, it gains or loses the Burrowed Status.	Zerg Cards · sheet 7
+ZERG	HYDRIODIC BILE	PASSIVE	HYDRIODIC BILE: PASSIVE This Unit's Acid Saliva weapon gains Surge Type: Light, and S Dice: D3+1.	Zerg Cards · sheet 7
+ZERG	TUNNELING CLAWS	PASSIVE	TUNNELING CLAWS: PASSIVE While this Unit has the Burrowed Status, it may perform the Move and Run actions without losing that Status. It may also move through other Units’ bases.	Zerg Cards · sheet 7
+ZERG	GLIAL RECONSTITUTION	ACTIVE	GLIAL RECONSTITUTION: ACTIVE 1 CP This Unit gains BUFF SPEED (1), or BUFF SPEED (2) if the Unit is ON CREEP.	Zerg Cards · sheet 7
+ZERG	BURROW AMBUSH	PASSIVE	"BURROW AMBUSH: PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be set Within 10"" of any Enemy model. This Unit's Activation ends."	Zerg Cards · sheet 7
+ZERG	UNDERDEVELOPED CLAWS	PASSIVE	UNDERDEVELOPED CLAWS: PASSIVE This Unit cannot gain Burrowed Status.	Zerg Cards · sheet 8
+ZERG	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (1) 4+ effect.	Zerg Cards · sheet 9
+ZERG	REGENERATION	PASSIVE	REGENERATION: PASSIVE When this Unit becomes Activated, if it has the Burrowed Status, resolve the HEAL (2) effect.	Zerg Cards · sheet 9
+ZERG	BURROW	ACTIVE	BURROW: ACTIVE 2 BM If this Unit is not Engaged, it gains or loses the Burrowed Status.	Zerg Cards · sheet 9
+ZERG	DEBILITATING SALIVA	REACTION	"DEBILITATING SALIVA: REACTION 1 BM Use when an Enemy Unit Within 8"" of this Unit declares a Ranged Attack. Apply DEBUFF Hit (1) to each of that Unit's Ranged Weapons."	Zerg Cards · sheet 9
+ZERG	HYDRIODIC BILE	PASSIVE	HYDRIODIC BILE: PASSIVE This Unit's Acid Saliva weapon gains Surge Type: Light, and S Dice: D3+1.	Zerg Cards · sheet 9
+ZERG	GLIAL RECONSTITUTION	ACTIVE	GLIAL RECONSTITUTION: ACTIVE 1 BM This Unit gains BUFF SPEED (1), or BUFF SPEED (2) if the Unit is ON CREEP.	Zerg Cards · sheet 9
+ZERG	BURROW AMBUSH	PASSIVE	"BURROW AMBUSH: PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be set Within 10"" of any Enemy model. This Unit's Activation ends."	Zerg Cards · sheet 9
+ZERG	TUNNELING CLAWS	PASSIVE	TUNNELING CLAWS: PASSIVE While this Unit has the Burrowed Status, it may perform the Move and Run actions without losing that Status. It may also move through other Units’ bases.	Zerg Cards · sheet 9
+ZERG	METABOLIC BOOST	ACTIVE	METABOLIC BOOST: ACTIVE 1 BM When determining Charge Distance for this Unit, roll 2D6 instead of D6 and use the higher result to add to the Unit’s Speed characteristic.	Zerg Cards · sheet 10
+ZERG	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (1) 5+ effect.	Zerg Cards · sheet 10
+ZERG	SQUADRON	PASSIVE	"SQUADRON: PASSIVE This Unit’s Horizontal Coherency is 4""."	Zerg Cards · sheet 10
+ZERG	ADRENAL GLANDS	PASSIVE	ADRENAL GLANDS: PASSIVE This Unit’s Claws and Shredding Claws weapons gain PRECISION (2).	Zerg Cards · sheet 10
+ZERG	BURROW AMBUSH	PASSIVE	"BURROW AMBUSH: PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be set Within 10"" of any Enemy model. This Unit's Activation ends."	Zerg Cards · sheet 10
+ZERG	DEVASTATING CHARGE	PASSIVE	DEVASTATING CHARGE: PASSIVE Immediately after this Unit completes a successful Charge, resolve the IMPACT (1) 5+ effect.	Zerg Cards · sheet 11
+ZERG	METABOLIC BOOST	ACTIVE	METABOLIC BOOST: ACTIVE 1 BM When determining Charge Distance for this Unit, roll 2D6 instead of D6 and use the higher result to add to the Unit’s Speed characteristic.	Zerg Cards · sheet 11
+ZERG	SQUADRON	PASSIVE	"SQUADRON: PASSIVE This Unit’s Horizontal Coherency is 4""."	Zerg Cards · sheet 11
+ZERG	RAPTOR STRAIN	PASSIVE	RAPTOR STRAIN: PASSIVE This Unit can move through IMPASSABLE TERRAIN of Size 4 or less and change elevation without using ACCESS POINTS.	Zerg Cards · sheet 11
+ZERG	ADRENAL GLANDS	PASSIVE	ADRENAL GLANDS: PASSIVE This Unit’s Claws and Shredding Claws weapons gain PRECISION (2).	Zerg Cards · sheet 11
+ZERG	BURROW AMBUSH	PASSIVE	"BURROW AMBUSH: PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be set Within 10"" of any Enemy model. This Unit's Activation ends."	Zerg Cards · sheet 11
+ZERG	METABOLIC BOOST	ACTIVE	METABOLIC BOOST: ACTIVE 1 BM When determining Charge Distance for this Unit, roll 2D6 instead of D6 and use the higher result to add to the Unit’s Speed characteristic.	Zerg Cards · sheet 12
+ZERG	ZERGLING RECONSTITUTION	ACTIVE	ZERGLING RECONSTITUTION: ACTIVE 1 BM Resolve the RESPAWN (2) effect, or RESPAWN (3) if the Unit is ON CREEP.	Zerg Cards · sheet 12
+ZERG	SQUADRON	PASSIVE	"SQUADRON: PASSIVE This Unit’s Horizontal Coherency is 4""."	Zerg Cards · sheet 12
+ZERG	BURROW AMBUSH	PASSIVE	"BURROW AMBUSH: PASSIVE When this Unit is nominated to deploy from the Reserves, it may resolve the PLACE (18) effect from the controlling player's Entry Edge. No model may be set Within 10"" of any Enemy model. This Unit's Activation ends."	Zerg Cards · sheet 12
+ZERG	PNEUMATIZED CARAPACE	REACTION	PNEUMATIZED CARAPACE: REACTION Use after a Friendly Unit rolls a D6 for Charge Distance. Roll an additional D6 and use the higher result to calculate the total Charge Distance.	Zerg Cards · sheet 13
+ZERG	LIE IN WAIT	ACTIVE	LIE IN WAIT: ACTIVE The active, Unengaged Ground Unit gains the Burrowed Status.	Zerg Cards · sheet 13
+ZERG	CARAPACE	REACTION	CARAPACE: REACTION Use before a Friendly Unit makes an Armour Roll. That Unit gains TOUGH (1) for this roll.	Zerg Cards · sheet 13
+ZERG	BROOD INSTINCT	REACTION	BROOD INSTINCT: REACTION Use before a Friendly Unit makes an Evade Roll. Apply a +1 Modifier to that roll.	Zerg Cards · sheet 13
+ZERG	ZERG CREEP	PASSIVE	ZERG CREEP: PASSIVE During Army Building, select exactly one Creep Card and add it to their Army List, paying its listed cost (if any).	Zerg Cards · sheet 13
+ZERG	EXCRETE CREEP	ACTIVE	"EXCRETE CREEP: ACTIVE Set a Creep Tumor token on the battlefield Within 6"" (Line of Sight is not required) of either a Friendly Entry Edge or an existing Friendly Creep Tumor token."	Zerg Cards · sheet 14
+ZERG	MALEVOLENT MATRIARCH	PASSIVE	MALEVOLENT MATRIARCH: PASSIVE If the active Friendly Zerg Unit declares a Charge action while ON CREEP, it gains +1 Modifier to IMPACT Hit Rolls.	Zerg Cards · sheet 14
+ZERG	CREEP REMOVAL	PASSIVE	"CREEP REMOVAL: PASSIVE If an Enemy Unit ends a Move, Deploy, Run, Charge or Disengage action Within 1"" of a Friendly Creep Tumor token, remove that token from the battlefield."	Zerg Cards · sheet 14
+ZERG	WILD MUTATION	ACTIVE	WILD MUTATION: ACTIVE If the active unit is ON CREEP, the unit gains BUFF Speed (1) and its first used Weapon gains PRECISION (1).	Zerg Cards · sheet 14
+ZERG	ZERG CREEP	PASSIVE	ZERG CREEP: PASSIVE During Army Building, you must select exactly one Creep Card and add it to your Army List, paying its listed cost (if any).	Zerg Cards · sheet 14
+ZERG	PREDATION	ACTIVE	PREDATION: ACTIVE The active Unit’s Close Combat Weapons gain INSTANT.	Zerg Cards · sheet 15
+ZERG	SPEED ON CREEP	PASSIVE	SPEED ON CREEP: PASSIVE If the active Friendly Zerg Unit is ON CREEP, increase its Speed characteristic by 1.	Zerg Cards · sheet 15
+ZERG	CREEP REMOVAL	PASSIVE	"CREEP REMOVAL: PASSIVE If an Enemy Unit ends a Move, Deploy, Run, Charge or Disengage action Within 1"" of a Friendly Creep Tumor token, remove that token from the battlefield."	Zerg Cards · sheet 15
+ZERG	FERAL RAGE	ACTIVE	FERAL RAGE: ACTIVE The active Unit’s first Close Combat Weapon used gains PRECISION (2).	Zerg Cards · sheet 15
+ZERG	FERAL RAGE	ACTIVE	FERAL RAGE: ACTIVE The active Unit’s first Close Combat Weapon used gains PRECISION (2).	Zerg Cards · sheet 16
+TERRAN	TERRAN TENACITY	ACTIVE	Once per Game. Immediately claim the First Player Marker. No other player may claim the First Player Marker for the remainder of this Phase.	Terran Cards
+TERRAN	ARMED AND READY	ACTIVE	The active Biological Unit Deploys from any table edge that is not a player's Entry Edge. No model may be placed Within 10" of any Enemy model. This ability cannot be used if another Friendly Biological Unit has already been Deployed this Round.	Terran Cards
+PROTOSS	STRATEGIC RECALL	ACTIVE	The active, Unengaged Ground Unit is returned to Reserves instead of performing an action.	Protoss Cards
+PROTOSS	GRAVITIC BOOSTERS	REACTION	Use after a Friendly Unit rolls a D6 for Charge Distance. Add 1 to the Charge Distance for this Unit.	Protoss Cards
+ZERG	LIVING GLOB OF TISSUE	PASSIVE	Creep Tumor tokens have STAY IN PLAY and DISPLACEMENT.	Zerg Cards

@@ -6,9 +6,66 @@ SC2 TMG Companion is a labour-of-love companion app built to make games of StarC
 
 ## Download
 
-### [Download SC2 TMG Companion v1.0.0 for Android](/xCriticalStrikex/SC2-TMG-Companion/releases/tag/v1.0.0)
+### [Download the latest Android release](https://github.com/xCriticalStrikex/SC2-TMG-Companion/releases/latest)
 
-The Android APK is available under the GitHub Release above.
+The installable APK is published through GitHub Releases. APK files are intentionally not committed to the source tree.
+
+## Source and release integrity
+
+**The APK published in Releases is built from the source in this repository.**
+
+Current public release:
+
+- Version: **1.0.0**
+- Android versionCode: **108**
+- Application ID: `com.sc2tmg.soundboard`
+- APK filename: `SC2TMG_Companion_v1.0.0.apk`
+- SHA-256: `64f6391406a6122a0c2fa2a3b31bebbbaef73963480371c214519afd887adf1f`
+
+To verify a downloaded APK in PowerShell:
+
+```powershell
+Get-FileHash -Algorithm SHA256 .\SC2TMG_Companion_v1.0.0.apk
+```
+
+The resulting hash should match the SHA-256 value above. Release history and verification details are also recorded in [RELEASES.md](RELEASES.md).
+
+## Build from source
+
+Requirements:
+
+- Android Studio with its embedded JDK, or JDK 17+
+- Android SDK 35
+- An internet connection on the first build so Gradle can download dependencies
+
+Clone the repository, open its root folder in Android Studio, allow Gradle sync to finish, and run the `app` configuration. From a Windows terminal, the equivalent debug build is:
+
+```powershell
+$env:JAVA_HOME = "C:\Program Files\Android\Android Studio\jbr"
+.\gradlew.bat :app:assembleDebug
+```
+
+The debug APK will be written beneath `app/build/outputs/apk/debug/`.
+
+Release signing material is deliberately excluded from this repository. A locally produced unsigned or differently signed APK will not be byte-for-byte identical to the published release APK.
+
+## Repository layout
+
+```text
+SC2-TMG-Companion/
+├── app/
+│   ├── build.gradle.kts
+│   └── src/
+├── gradle/
+├── build.gradle.kts
+├── settings.gradle.kts
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── README.md
+├── RELEASES.md
+└── .gitignore
+```
 
 ## Features
 
@@ -22,22 +79,21 @@ The Android APK is available under the GitHub Release above.
 - Victory and GG presentation
 - Far too many little StarCraft details 😅
 
-## Current Release
+## Security and privacy
 
-**v1.0.0**
+The public repository does not include signing keys, keystore passwords, `local.properties`, API credentials, generated build directories, APKs, or Android App Bundles. If you believe a secret has been exposed, report it privately to the repository owner instead of opening a public issue containing the secret.
 
-Android APK:
-`SC2TMG_Companion_v1.0.0.apk`
+## Licensing and fan project disclaimer
+
+**This project is not affiliated with or endorsed by Archon Studio or Blizzard Entertainment.**
+
+StarCraft and related names, imagery, audio, and other game assets belong to their respective rights holders. They are included only as part of this independent, non-commercial fan-made companion project. No rights to third-party material are claimed or granted.
+
+No separate open-source licence is currently granted for the original source code. The repository is public so that users can inspect the app before installing it. Please contact the repository owner before redistributing or modifying the source.
 
 ## Feedback
 
-Bug reports, suggestions and general feedback are very welcome.
-
-## Fan Project Disclaimer
-
-**I am not affiliated with or endorsed by Archon Studio or Blizzard Entertainment.**
-
-StarCraft and related names, imagery and audio belong to their respective rights holders. This is an independent fan-made companion project.
+Bug reports, suggestions and general feedback are very welcome through GitHub Issues.
 
 ---
 
