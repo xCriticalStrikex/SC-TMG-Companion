@@ -35,6 +35,22 @@ The APK is about **617 MiB** because it includes a large library of offline audi
 
 The goal is simple: keep the useful tabletop information close at hand while making the game feel a little more like commanding an army inside StarCraft itself.
 
+## Screenshots
+
+A quick look at the app in action:
+
+<p align="center">
+  <img src="screenshots/01-home.jpg" alt="SC2 TMG Companion home screen" width="260" />
+  <img src="screenshots/02-game-setup.jpg" alt="Game setup screen" width="260" />
+  <img src="screenshots/03-command-console.jpg" alt="Command Console match tracker" width="260" />
+</p>
+
+<p align="center">
+  <img src="screenshots/04-terran-page.jpg" alt="Terran soundboard and unit page" width="260" />
+  <img src="screenshots/06-jimmys-jukebox.jpg" alt="Jimmy's Jukebox music screen" width="260" />
+  <img src="screenshots/07-victory-screen.jpg" alt="Victory results screen" width="260" />
+</p>
+
 ## Feedback and feature requests
 
 If you use the app, feedback is extremely welcome.
@@ -110,6 +126,7 @@ SC2-TMG-Companion/
 ├── docs/
 │   └── release/v1.0.0-r18/
 ├── gradle/
+├── screenshots/
 ├── build.gradle.kts
 ├── settings.gradle.kts
 ├── gradle.properties
