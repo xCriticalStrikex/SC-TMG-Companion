@@ -17,6 +17,7 @@ The installable APK is published through GitHub Releases. APK files are intentio
 Current public release:
 
 - Version: **1.0.0**
+- Canonical internal source revision: **R18 final**
 - Android versionCode: **108**
 - Application ID: `com.sc2tmg.soundboard`
 - APK filename: `SC2TMG_Companion_v1.0.0.apk`
@@ -29,6 +30,8 @@ Get-FileHash -Algorithm SHA256 .\SC2TMG_Companion_v1.0.0.apk
 ```
 
 The resulting hash should match the SHA-256 value above. Release history and verification details are also recorded in [RELEASES.md](RELEASES.md).
+
+The canonical source/APK lineage, complete input hash manifest, R18 documentation reconciliation, and fresh-build evidence are recorded in [the V1.0.0 / R18 baseline audit](docs/release/v1.0.0-r18/BASELINE.md).
 
 ## Build from source
 
