@@ -1,12 +1,12 @@
 ---
 name: Feature request
-about: Suggest an improvement for SC2 TMG Companion
+about: Suggest an improvement for SC TMG Companion
 title: "[Feature] "
 labels: ""
 assignees: ""
 ---
 
-Thanks for sharing an idea for SC2 TMG Companion.
+Thanks for sharing an idea for SC TMG Companion.
 
 ## What would you like to improve?
 

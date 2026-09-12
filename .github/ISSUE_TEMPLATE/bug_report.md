@@ -1,12 +1,12 @@
 ---
 name: Bug report
-about: Report a reproducible problem with SC2 TMG Companion
+about: Report a reproducible problem with SC TMG Companion
 title: "[Bug] "
 labels: ""
 assignees: ""
 ---
 
-Thanks for helping improve SC2 TMG Companion.
+Thanks for helping improve SC TMG Companion.
 
 ## App and device
 

@@ -1,19 +1,19 @@
-# SC2 TMG Companion
+# SC TMG Companion
 
 **A free fan-made Android companion for StarCraft: The Miniatures Game.**
 
-[![Latest release](https://img.shields.io/github/v/release/xCriticalStrikex/SC2-TMG-Companion?display_name=tag&sort=semver)](https://github.com/xCriticalStrikex/SC2-TMG-Companion/releases/latest)
-[![APK downloads](https://img.shields.io/github/downloads/xCriticalStrikex/SC2-TMG-Companion/total?label=APK%20downloads)](https://github.com/xCriticalStrikex/SC2-TMG-Companion/releases)
+[![Latest release](https://img.shields.io/github/v/release/xCriticalStrikex/SC-TMG-Companion?display_name=tag&sort=semver)](https://github.com/xCriticalStrikex/SC-TMG-Companion/releases/latest)
+[![APK downloads](https://img.shields.io/github/downloads/xCriticalStrikex/SC-TMG-Companion/total?label=APK%20downloads)](https://github.com/xCriticalStrikex/SC-TMG-Companion/releases)
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen)
 ![Fan project](https://img.shields.io/badge/project-free%20fan%20project-blue)
 
-SC2 TMG Companion is a labour-of-love project built to make games of **StarCraft: The Miniatures Game** feel much more like StarCraft at the table, while also handling the practical companion-app side of play.
+SC TMG Companion is a labour-of-love project built to make games of **StarCraft: The Miniatures Game** feel much more like StarCraft at the table, while also handling the practical companion-app side of play.
 
 It combines match tools, rules access, faction-aware music, StarCraft sound effects, collection tools and cinematic presentation in one offline-heavy Android app.
 
 ## Download
 
-### **[Download SC2 TMG Companion v1.0.0](https://github.com/xCriticalStrikex/SC2-TMG-Companion/releases/latest)**
+### **[Download SC TMG Companion v1.0.0](https://github.com/xCriticalStrikex/SC-TMG-Companion/releases/latest)**
 
 Current public APK: `SC2TMG_Companion_v1.0.0.apk`
 
@@ -40,7 +40,7 @@ The goal is simple: keep the useful tabletop information close at hand while mak
 A quick look at the app in action:
 
 <p align="center">
-  <img src="screenshots/01-home.jpg" alt="SC2 TMG Companion home screen" width="260" />
+  <img src="screenshots/01-home.jpg" alt="SC TMG Companion home screen" width="260" />
   <img src="screenshots/02-game-setup.jpg" alt="Game setup screen" width="260" />
   <img src="screenshots/03-command-console.jpg" alt="Command Console match tracker" width="260" />
 </p>
@@ -55,7 +55,7 @@ A quick look at the app in action:
 
 If you use the app, feedback is extremely welcome.
 
-- **[Report a bug or suggest something through GitHub Issues](https://github.com/xCriticalStrikex/SC2-TMG-Companion/issues)**
+- **[Report a bug or suggest something through GitHub Issues](https://github.com/xCriticalStrikex/SC-TMG-Companion/issues)**
 - **[Quick public feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf2e6eNuDfbqbnFLW6jFKLpJmb9ybVETlefjyh8Kjn-st_T0w/viewform)**
 
 If the project is useful to your local group, please **star the repository and share the release with other StarCraft: TMG players**. Community sharing is the main way this fan project reaches people.
@@ -115,7 +115,7 @@ Release signing material is deliberately excluded from this repository. A locall
 ## Repository layout
 
 ```text
-SC2-TMG-Companion/
+SC-TMG-Companion/
 ├── .github/
 │   └── ISSUE_TEMPLATE/
 ├── app/
